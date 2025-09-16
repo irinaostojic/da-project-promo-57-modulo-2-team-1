@@ -25,29 +25,29 @@ Nota: El primer método de extracción de Spotify puede tardar unos 5-10 minutos
 hasta la línea 50 del código, donde ya empezamos a realizar las consultas.
 
 ## 📦 Contenido del repositorio
-📁 1-Spotify.ipynb                  → Consultas y extracción de 1000 álbumes y 1000 canciones  
-📁 2-Last_FM.ipynb                  → Consulta y extracción de información sobre el artista en relación a lo extraido en Spotify
-📁 3-Conexion_Python-SQL.ipynb      → Documento de conexión para traspasar información de Python a la BBDD de MySQL  
-📁 BBDD_STELLA_APIS_final.sql       → Base de datos donde realizaremos las consultas 
-🗄 albums_v2.csv                     → CSVs extraídos de la API de Spotify
-🗄 artistas_v2.csv                   → CSVs extraídos de la API de Spotify
-🗄 bio_artistas_v2.csv               → CSVs extraídos de la API de LastFM
-🗄 canciones_v2.csv                  → CSVs extraídos de la API de Spotify 
-📸 diagrama.png                     → Captura del diagrama de nuestra BBDD
-📊 diagrama.mysql                   → Diagrama de nuestra BBDD
-📄 README.md                        → Este documento  
+- 📁 1-Spotify.ipynb                  → Consultas y extracción de 1000 álbumes y 1000 canciones  
+- 📁 2-Last_FM.ipynb                  → Consulta y extracción de información sobre el artista en relación a lo extraido en Spotify
+- 📁 3-Conexion_Python-SQL.ipynb      → Documento de conexión para traspasar información de Python a la BBDD de MySQL  
+- 📁 BBDD_STELLA_APIS_final.sql       → Base de datos donde realizaremos las consultas 
+- 🗄 albums_v2.csv                     → CSVs extraídos de la API de Spotify
+- 🗄 artistas_v2.csv                   → CSVs extraídos de la API de Spotify
+- 🗄 bio_artistas_v2.csv               → CSVs extraídos de la API de LastFM
+- 🗄 canciones_v2.csv                  → CSVs extraídos de la API de Spotify 
+- 📸 diagrama.png                     → Captura del diagrama de nuestra BBDD
+- 📊 diagrama.mysql                   → Diagrama de nuestra BBDD
+- 📄 README.md                        → Este documento  
 
 ## 🔍 Proceso técnico
 - Extracción de las APIs
-    Se extrajeron datos de artistas, canciones y géneros.
-    Se documentaron desfases y errores comunes (timeouts, duplicados).
+    - Se extrajeron datos de artistas, canciones y géneros.
+    - Se documentaron desfases y errores comunes (timeouts, duplicados).
 
 - Limpieza y carga
-    Transformación a CSV y carga en SQL.
-    Limpieza y normalización de nombres.
+    - Transformación a CSV y carga en SQL.
+    - Limpieza y normalización de nombres.
 
 - Consultas SQL
-    Algunas consultas destacadas: 
+    - Algunas consultas destacadas: 
     1. Cinco con mayor valoración
     2. Cinco artistas con más oyentes
     3. Más escuchado de cada género
