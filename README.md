@@ -18,8 +18,7 @@ Consiste en la extracción y análisis de datos musicales con Python a través d
 ## 📃 Pasos a dar
 1. Para asegurar una óptima extracción de datos, se recomienda ejecutar celda a celda los 2 primeros archivos del Jupyter según el orden establecido. Primero:`1-Spotify` y segundo: `2-Last_FM`. 
 Nota: El primer método de extracción de Spotify puede tardar unos 5-10 minutos en completarse. Paciencia!
-2. # IMPORTANTE!  
-Antes de ejecutar el documento `3-Conexion_Pyhton-SQL` hay que abrir en MySQL el documento `BBDD_STELLA_APIS_final` y ejecutar la primera línea de código: `CREATE SCHEMA IF NOT EXISTS STELLA_APIS_BBDD;`
+2. IMPORTANTE!  Antes de ejecutar el documento `3-Conexion_Pyhton-SQL` hay que abrir en MySQL el documento `BBDD_STELLA_APIS_final` y ejecutar la primera línea de código: `CREATE SCHEMA IF NOT EXISTS STELLA_APIS_BBDD;`
 3. Una vez creada nuestra BBDD, ahora sí, nos vamos al archivo `3-Conexión_Pyhton-SQL` y ejecutamos las celdas. Otra vez, una a una.
 4. Nos vamos de nuevo a SQL y actualizamos nuestras BBDD. Veremos que en `STELLA_APIS_BBDD` se han creado tres columnas: `albums_v2`, `canciones_v2` y `bio_artistas_v2`. Será a través de las cuales haremos las consultas.
 5. Ejecutamos todas las primeras líneas de código para normalizar, limpiar y unificar tipos de datos. Esto va desde `USE BBDD_STELLA_APIS_bbdd;`
