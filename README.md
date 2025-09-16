@@ -48,14 +48,14 @@ hasta la línea 50 del código, donde ya empezamos a realizar las consultas.
 
 - Consultas SQL
     - Algunas consultas destacadas: 
-    1. Cinco con mayor valoración
-    2. Cinco artistas con más oyentes
-    3. Más escuchado de cada género
-    4. Qué artista ha lanzado más álbumes por género
-    5. ¿Cuál es el género predominante entre los artistas más populares?
-    6. Cuál es el álbum más valorado de los años
-    7. ¿En qué año se lanzaron más álbumes?
-    8. Cuál es el artista con más canciones por género
+        - Cinco con mayor valoración
+        - Cinco artistas con más oyentes
+        - Más escuchado de cada género
+        - Qué artista ha lanzado más álbumes por género
+        - ¿Cuál es el género predominante entre los artistas más populares?
+        - Cuál es el álbum más valorado de los años
+        - ¿En qué año se lanzaron más álbumes?
+        - Cuál es el artista con más canciones por género
 
 ## 📚 Aprendizajes y reflexiones
 - Los errores de extracción se convirtieron en oportunidades de repaso y aprendizaje.
