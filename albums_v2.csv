@@ -1,0 +1,1001 @@
+genre,album_name,album_id,release_date,total_tracks,popularity,artists_album,artist_followers,artist_popularity,artist_genres
+rock,Gene Rockwell and Friends (The 21st Anniversary Album),1tfriCekqF7MZzloTeqhxA,2013-09-30,14,15,Gene Rockwell,12201,26,
+rock,Bly By My Heer,2Ow4bSGff21WK9O4zgV9fU,2013-04-05,28,17,Gene Rockwell,12201,26,
+rock,Genki Rockets ＩＩ -No border between us- Repackage,3HVbrF80yo3sd8HmT25ciT,2012-08-08,16,17,Genki Rockets,16707,23,"j-dance, j-pop"
+rock,GENKI ROCKETS Ⅱ-No border between us-,47cjD9nzNpWTTUdhVa9voS,2011-09-07,17,19,Genki Rockets,16707,23,"j-dance, j-pop"
+rock,Currents,79dL7FLiJFOO0EoehUHQBv,2015-07-17,13,82,Tame Impala,9216666,84,"neo-psychedelic, indie"
+rock,Live Versions,44RrnCW7pMIEiiAR3LIAVL,2014-05-16,9,39,Tame Impala,9216666,84,"neo-psychedelic, indie"
+rock,Lonerism,3C2MFZ2iHotUQOSBzdSvM7,2012-01-01,12,69,Tame Impala,9216666,84,"neo-psychedelic, indie"
+rock,InnerSpeaker,1DNSmmRLfv97Yjq7MTFWng,2010-05-21,11,58,Tame Impala,9216666,84,"neo-psychedelic, indie"
+rock,Human,0YkHsU3Mblh7jvNngbV20W,2015-03-30,12,67,Three Days Grace,7175753,82,"post-grunge, rock"
+rock,Transit Of Venus,1amiX0yqQQ4ZeY6NajMwq4,2012-10-02,13,56,Three Days Grace,7175753,82,"post-grunge, rock"
+rock,Battle Born (Deluxe Edition),6P6DYLagXUhE5Qq2l79Ef1,2012-09-17,15,44,The Killers,7935380,80,alternative rock
+rock,Celebration Day,0kTe1sQd9yhDsdG2Zth7X6,2012-11-19,16,46,Led Zeppelin,15837817,80,"classic rock, rock, hard rock, rock and roll"
+rock,The Endless River,0yU7VItpGPmPcvKmwLg0JT,2014-11-10,21,49,Pink Floyd,22511659,83,"progressive rock, psychedelic rock, classic rock, art rock, rock"
+rock,The Next Day,2BW7T8PojNxH9RPq4WWa6h,2013-03-08,14,43,David Bowie,11662434,80,"glam rock, art rock"
+rock,A Reality Tour (Live),6ftJKeuvClf1axwHiVw0KA,2010-01-25,35,46,David Bowie,11662434,80,"glam rock, art rock"
+rock,Demolicious,7prfPBMbgDyhq7kdpM0R9v,2014-04-19,18,34,Green Day,17124920,85,"punk, pop punk"
+rock,¡TRÉ!,1t9rzuEEFVHPdqRYzsaWC8,2012-12-11,12,46,Green Day,17124920,85,"punk, pop punk"
+rock,¡DOS!,71rrqHKVkUFx2CSVfxrrLs,2012-11-13,13,50,Green Day,17124920,85,"punk, pop punk"
+rock,¡UNO!,6AFJIZmd1zWQDBBwHyeo9w,2012-09-24,12,51,Green Day,17124920,85,"punk, pop punk"
+rock,"Live At the Hammersmith Apollo, London 2012",0OdzgcmiA4tD4FqIX4qpKt,2012-12-03,22,39,The Cranberries,5285259,79,
+rock,Roses,75AjCgOwqEyU7WI33rfFH6,2012-02-26,14,34,The Cranberries,5285259,79,
+rock,"Live 2010 - Zenith Paris, 22.03.10",4rDXelyOv9EN1Zz1spMhP2,2012-02-06,21,33,The Cranberries,5285259,79,
+rock,Days Go By,43NzXURI2kqUYBxWyV6Ep9,2012-06-26,12,54,The Offspring,6542303,80,"punk, skate punk"
+rock,Happy Hour!,1Bycvax49QfoMUpuRT7HEB,2010-08-04,19,36,The Offspring,6542303,80,"punk, skate punk"
+rock,Blurryface,3cQO7jp5S9qLBoIVtbkSM1,2015-05-15,14,81,Twenty One Pilots,25650360,85,
+rock,Vessel,2r2r78NE05YjyHyVbVgqFn,2013-01-08,12,71,Twenty One Pilots,25650360,85,
+rock,Drones,2wart5Qjnvx1fd7LPdQxgJ,2015-06-04,12,61,Muse,8411480,79,"alternative rock, rock"
+rock,Live at Rome Olympic Stadium,2m7L60M210ABzrY9GLyBPZ,2013-11-25,13,45,Muse,8411480,79,"alternative rock, rock"
+rock,The 2nd Law,3KuXEGcqLcnEYWnn3OEGy0,2012-09-24,13,63,Muse,8411480,79,"alternative rock, rock"
+rock,Music From Another Dimension! (Expanded Edition),39kme3iLwVpllmUCxrkcPn,2012-11-06,18,41,Aerosmith,15857234,79,"classic rock, rock"
+rock,Music From Another Dimension!,5r8fL75eM7ZZ8atojWpTpq,2012-11-06,15,25,Aerosmith,15857234,79,"classic rock, rock"
+rock,Burning Bridges,3AkIHz2xtJzBOGopjuVWxR,2015-08-21,10,35,Bon Jovi,15594710,81,"glam metal, rock"
+rock,What About Now,0ygrVw5SYpWGQXD84CNdMW,2013-03-08,16,36,Bon Jovi,15594710,81,"glam metal, rock"
+rock,Inside Out,5UolC1Fr2JooZ6rUxbBmTk,2012-01-01,14,33,Bon Jovi,15594710,81,"glam metal, rock"
+rock,MTV Unplugged. El Libro De Las Mutaciones,3AO4YRY9r2gQL6GWLtdm7h,2015-11-27,15,56,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Hijos del pueblo,69JZWukakNJGpGhJILhyTl,2015-04-14,10,55,"Bunbury, Andrés Calamaro",3012891,74,"rock en español, latin rock, mexican rock"
+rock,"Madrid, Área 51... en un sólo acto de destrucción masiva!!!",53N6l5s4x7IKxge8CFpyvx,2014-11-25,26,35,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Palosanto,0nXljaUulp8uOde6IZCTbo,2013-09-20,15,40,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,De cantina en cantina (On Stage 2011-12),6xKhb1Y11T7X7qIY7qKp3Y,2012-02-02,11,24,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Gran Rex,6bGYQhFuGsgvB02NlwSjJb,2011-03-29,24,37,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Licenciado cantinas,3O6UOvU2ni8ir93Bs6gquU,2011-02-02,15,45,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Las Consecuencias,2oOUx7YZnwBm4tshQbhdyO,2010-02-16,11,60,Bunbury,3012891,74,"rock en español, latin rock, mexican rock"
+rock,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2Jps53V1q9huwJl6VU8FMP,2012-11-06,13,19,The Rolling Stones,15585443,81,"classic rock, rock"
+rock,Live At The Checkerboard Lounge,0SLzwxGYeOdJYbjxbE9plW,2012-07-09,21,36,"Muddy Waters, The Rolling Stones",1346819,56,"blues, classic blues, blues rock, jazz blues, soul blues, country blues"
+rock,Some Girls: Live In Texas '78,6GXsWYpplfx8n7b1OMlU7n,2011-11-21,17,29,The Rolling Stones,15585443,81,"classic rock, rock"
+rock,TKOL RMX 1234567,566osTxDsfrtdBxPDMGufx,2011-10-10,19,39,Radiohead,13356863,89,"art rock, alternative rock"
+rock,The King Of Limbs,3P17levwUPzmFfLYdAK3A7,2011-02-18,8,57,Radiohead,13356863,89,"art rock, alternative rock"
+rock,Hijos del pueblo,69JZWukakNJGpGhJILhyTl,2015-04-14,10,55,"Bunbury, Andrés Calamaro",3012891,74,"rock en español, latin rock, mexican rock"
+rock,Pura sangre,4T4t6X5eZ0ywtQ5fdScj3C,2014-12-02,14,31,Andrés Calamaro,2793583,73,"argentine rock, rock en español, latin rock"
+rock,Jamón del medio,7nW60ZbJOcQLGd9d5TWY1O,2014-12-02,16,35,Andrés Calamaro,2793583,73,"argentine rock, rock en español, latin rock"
+rock,Bohemio,0rvKuIaaoeOlU1NDBI0EVm,2013-08-28,10,54,Andrés Calamaro,2793583,73,"argentine rock, rock en español, latin rock"
+rock,Salmonalipsis now,6pCIiRs1bRgOCpOKc50WYs,2011-04-26,54,30,Andrés Calamaro,2793583,73,"argentine rock, rock en español, latin rock"
+rock,On the rock,6LC8ptXigkd1axeNCKryIm,2010-05-18,14,35,Andrés Calamaro,2793583,73,"argentine rock, rock en español, latin rock"
+rock,Going Back (2010),51YI8SD0GBp3c7cavCD6Zr,2010-09-10,26,40,Phil Collins,7199685,80,soft rock
+rock,Home for Christmas,6JyqlgXaWiIGkL926mOENB,2015-12-04,12,6,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,The Merry Christmas Collection (Remastered),5n2dANuWWQA2iF7YmZDVnU,2015-11-27,12,5,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Christmas - Elvis Presley Sings Everybody's Favorite Christmas Music (Remastered),3dOEquSbHn4pX9d1Knp9ts,2015-11-24,12,3,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra,3BYCjGZjrTkilIY7U25fNt,2015-10-30,14,56,"Elvis Presley, Royal Philharmonic Orchestra",10890212,80,"rockabilly, rock and roll"
+rock,The Classic Christmas Album (Remastered),2CG4yPvXvACMUNhJAkDcWc,2014-12-05,12,3,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Let It Snow (All-Time Christmas Favorites! Remastered),78O6BdDjqJra4SH9YM5Any,2014-11-04,12,3,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Only The Best,0BalQwYf5R0O7as2o3Om5u,2014-01-28,10,47,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Elvis Presley: My Christmas (Remastered),4zyE83KA7uEaXP8ckRMz2d,2013-11-26,12,4,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Elvis At Stax,3EHxFLhmgSGEBmJ7tFXwRz,2013-08-05,55,35,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Prince From Another Planet (Live),1GX2nOfzF9HpmuikfC7BrQ,2012-11-12,47,36,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Viva Elvis,4s9av7NxzjUbvQl5h9S2BN,2010-11-11,12,38,Elvis Presley,10890212,80,"rockabilly, rock and roll"
+rock,Orígenes: El Bolero En directo,3hN1foYpUUwk9iBGajaq5E,2015-12-04,22,33,Café Quijano,477349,61,"bolero, rock en español"
+rock,Orígenes: El Bolero Vol.3,3cpEWPCmAkKQunvQmeYP1t,2014-12-02,12,42,Café Quijano,477349,61,"bolero, rock en español"
+rock,Orígenes: El Bolero Volumen 2,5hKHbnTcIY0q7T3TqdwKJx,2013-11-05,12,48,Café Quijano,477349,61,"bolero, rock en español"
+rock,Orígenes: El Bolero,1AuiaiONjc0gPbQACNpzD5,2012-10-30,11,35,Café Quijano,477349,61,"bolero, rock en español"
+rock,En la arena (Gira 30 años y un día / Las Ventas 26 de junio de 2015),4CDz2IXJSPEwS42yZUWGYU,2015-11-20,28,40,Hombres G,5017983,73,"rock en español, latin rock, mexican rock"
+rock,30 años y un día,2gCKmsAG21Prjee7ooKE4p,2015-06-02,52,53,Hombres G,5017983,73,"rock en español, latin rock, mexican rock"
+rock,En La Playa,0oGCqVHaevPFm5mzgTsUsL,2011-11-29,10,39,Hombres G,5017983,73,"rock en español, latin rock, mexican rock"
+rock,Desayuno Continental,2UKBaeUC50EitkqvCIrip6,2010-11-16,11,23,Hombres G,5017983,73,"rock en español, latin rock, mexican rock"
+rock,Metallica Through The Never (Music From The Motion Picture),0ecPxTAKqXdr2MJYdYOM7e,2013-01-01,16,46,Metallica,31737975,85,"metal, thrash metal, rock, heavy metal, hard rock"
+rock,Lulu,3a1SJd8obHju43McHQew7J,2011-01-01,10,26,"Lou Reed, Metallica",2011612,63,"glam rock, proto-punk"
+rock,13 (Deluxe Version),4XQC97RRP7AmyF9mN4lav4,2013-01-01,11,35,Black Sabbath,9612433,81,"metal, heavy metal, rock, stoner rock, doom metal, hard rock"
+rock,13,5WXL9YjbNd4GIqWc9mZOOq,2013-01-01,12,56,Black Sabbath,9612433,81,"metal, heavy metal, rock, stoner rock, doom metal, hard rock"
+rock,A Matter of Trust - The Bridge to Russia: The Music (Live),0Zck2cwH8sMBTRoqIODlmu,2014-05-19,27,31,Billy Joel,7272701,82,soft rock
+rock,Live At Shea Stadium,4zziqp3wOBkfWmxwlILVBZ,2011-03-08,25,43,Billy Joel,7272701,82,soft rock
+rock,Algo Sucede (Track by Track Commentary),5Lfi86mBzXyLhUJDAlfDPf,2015-08-14,12,19,Julieta Venegas,3221844,77,"latin pop, latin rock"
+rock,Algo Sucede,1E7C32U8IgXEOPAUg5uNpm,2015-08-14,12,59,Julieta Venegas,3221844,77,"latin pop, latin rock"
+rock,Los Momentos,7L5G2yWZKE08abmnCUvW49,2013-03-19,11,38,Julieta Venegas,3221844,77,"latin pop, latin rock"
+rock,Otra Cosa,7rrYlu3nL2ZfW7RR9tSDMO,2010-03-16,12,49,Julieta Venegas,3221844,77,"latin pop, latin rock"
+rock,Let It Be... Naked (Remastered),4KYcffwC5HgjJLdpQU9SjC,2014-01-01,11,47,The Beatles,30495231,86,"classic rock, psychedelic rock"
+rock,On Air - Live At The BBC (Vol.2),4On0Hf7VJC1jz5gXY2cU8p,2013-11-11,63,40,The Beatles,30495231,86,"classic rock, psychedelic rock"
+rock,AM,78bpIziExqiI9qztvNFlQu,2013-09-09,12,88,Arctic Monkeys,31572109,88,"indie, garage rock"
+rock,Suck It and See,2ym2jcqckXqWeTDoxz3Kst,2011-06-06,12,64,Arctic Monkeys,31572109,88,"indie, garage rock"
+rock,Tour Americano 14/15,1raRxblTKBGTQ0q0qZSn3o,2015-10-16,16,35,Jarabe De Palo,1841489,71,"rock en español, latin rock, latin alternative"
+rock,Somos,1cyi0yclphC7UPuKm7ZP9S,2014-02-11,12,21,Jarabe De Palo,1841489,71,"rock en español, latin rock, latin alternative"
+rock,Somos (Spotify Track By Track),6J4tf7E8HURNRfBDtkTLqW,2014-01-31,13,0,Jarabe De Palo,1841489,71,"rock en español, latin rock, latin alternative"
+rock,Somos (Spotify Track By Track),0F8UXm0PxXQ7TdD2EUDgBm,2014-01-31,13,0,Jarabe De Palo,1841489,71,"rock en español, latin rock, latin alternative"
+rock,¿Y Ahora Que Hacemos?,2Zh22bHXvqHRxGI7a5xfRX,2011,13,46,Jarabe De Palo,1841489,71,"rock en español, latin rock, latin alternative"
+rock,The Hunting Party: Acapellas + Instrumentals,6hU9JCoqq4GjYq86dQ1o9b,2014-06-09,22,32,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,The Hunting Party,3XB2yloP7l00tEUmaODtVi,2014-06-09,12,62,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,RECHARGED,2FUsvD1bw53HGOjAg56vRD,2013-10-25,14,50,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,LIVING THINGS: Acapellas and Instrumentals,7qRKpkP0jSOlBMLYZhAMCh,2012-06-19,22,41,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,LIVING THINGS,4XHIjbhjRmqWlosjj5rqSI,2012-06-19,12,75,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,A Thousand Suns Live Around the World,0hJ3A7sih1AXDoMjXHLr7Q,2012-06-19,10,38,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,Minutes to Midnight Live Around the World,7IYqppCBhR5z9z8JqgXuxi,2012-06-12,12,38,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,Meteora Live Around the World,4flcwtqnLoKZJ2wrCp1aJq,2012-06-05,7,36,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,Hybrid Theory Live Around the World,1FiRqhpAowNK8gTl5sOhxZ,2012-05-31,8,37,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,A Thousand Suns (Bonus Edition),4fy0SXW5G8evBCo2A3kn02,2010-09-08,21,47,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,A Thousand Suns,5uvXx5ZQswNRFCdHR521YZ,2010-09-08,15,65,Linkin Park,31248582,92,"nu metal, rap metal, rock, alternative metal"
+rock,I'm with You,5wZtSIvijWCMc1vlPFqAyB,2011-08-29,14,60,Red Hot Chili Peppers,22998621,86,"funk rock, alternative rock, rock"
+rock,The Diving Board (Deluxe Version),6NhOx6UV8nYDgrzPquDFLh,2013-09-16,19,29,Elton John,15342252,84,
+rock,The Diving Board,7nXmwymeNTvJd1CnpEugH2,2013-09-16,15,20,Elton John,15342252,84,
+rock,The Union (Deluxe),7hZmPWO4fh1zlDBQOdRwSg,2010-10-19,16,22,"Elton John, Leon Russell",15342252,84,
+rock,The Union,5O3tJmTjdvIWSRyut7mTbZ,2010-01-01,14,28,"Elton John, Leon Russell",15342252,84,
+rock,Smoke + Mirrors (Deluxe),0Ikw6ho559687KCPbSjr0K,2015-10-23,22,59,Imagine Dragons,58070654,89,
+rock,Night Visions (Deluxe),1zcNZa89FXNruaesVKiVeu,2012-09-04,20,55,Imagine Dragons,58070654,89,
+rock,Night Visions,6nxDQi0FeEwccEPJeNySoS,2012-09-04,14,78,Imagine Dragons,58070654,89,
+rock,Loco De Amor (Tour Edition),3htJFw3Ad4OaE30FbwO5nu,2015-06-29,15,37,Juanes,5483398,77,"latin pop, colombian pop, rock en español"
+rock,Loco De Amor,7bh3HOAz9lQmOEgDAXwy4v,2014-01-01,11,40,Juanes,5483398,77,"latin pop, colombian pop, rock en español"
+rock,Tr3s Presents Juanes MTV Unplugged,6Zy2wrvOOW0sxTWy7nF9BH,2012-01-01,14,46,Juanes,5483398,77,"latin pop, colombian pop, rock en español"
+rock,P.A.R.C.E.,3YC801MC9LJZQeoMHyujAc,2010-01-01,10,20,Juanes,5483398,77,"latin pop, colombian pop, rock en español"
+rock,P.A.R.C.E. (Deluxe Version),5zl0FmMSVWelddFzNG5fBC,2010,13,43,Juanes,5483398,77,"latin pop, colombian pop, rock en español"
+rock,A Night At The Odeon,4RjhFl7Eo8PouXAL8GMiXS,2015-11-13,19,34,Queen,54805657,86,"classic rock, rock, glam rock"
+rock,Live At The Rainbow (Deluxe),1zPInImSAOeB2u5Dm03YJI,2014-01-01,41,30,Queen,54805657,86,"classic rock, rock, glam rock"
+rock,Live At The Rainbow,4rxdf27orKcIWhwSEqoed9,2014-01-01,24,33,Queen,54805657,86,"classic rock, rock, glam rock"
+rock,Hungarian Rhapsody (Live In Budapest / 1986),3BuEiPtiFc0kcnZvURQpn8,2012-01-01,27,45,Queen,54805657,86,"classic rock, rock, glam rock"
+rock,Songs Of Innocence (Deluxe),6wQXpkptAIZPzNf5H0SA10,2014-01-01,21,51,U2,13508622,79,rock
+rock,Songs Of Innocence,7DY6v8qiyQcsTCqUWjH7pS,2014-01-01,11,48,U2,13508622,79,rock
+rock,Rock or Bust,6OwvO40ahugJE5PH4TjqTg,2014-11-28,11,55,AC/DC,31967923,84,"rock, hard rock, classic rock, rock and roll"
+rock,Live at River Plate,4H6JMsvxmh0U7VBYiWiyLa,2012-11-19,19,55,AC/DC,31967923,84,"rock, hard rock, classic rock, rock and roll"
+rock,V (Deluxe),4KXLjIEas8MTwwX3xpmAdC,2015-05-18,16,56,Maroon 5,45461795,89,pop
+rock,V,2Auw0pTT6EcQdvHNimhLQI,2014-09-02,12,78,Maroon 5,45461795,89,pop
+rock,Overexposed Track By Track,6ijGiBcBfUwkoyHn5VUHU2,2012-01-01,33,77,Maroon 5,45461795,89,pop
+rock,Overexposed (Deluxe),6XYL7jVgFaxD1X7F8IMO2b,2012-01-01,15,47,Maroon 5,45461795,89,pop
+rock,Overexposed,3r3flRqc5pQozLGZ3GyqTe,2012-01-01,12,41,Maroon 5,45461795,89,pop
+rock,Hands All Over (Revised International Standard version),1snrPQMoTrBsKl73wzSxbn,2010,14,70,Maroon 5,45461795,89,pop
+rock,Hands All Over (Revised International Deluxe),3gjJTUMI9q6ReSe0z7gyjp,2010,19,48,Maroon 5,45461795,89,pop
+rock,Cama Incendiada (2019 Remasterizado),5ZAmo9FNjvOQfuLaeY45Qg,2015-04-21,11,32,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Cama Incendiada,36lGlwe75fTsr4CLVlfYQa,2015-04-21,11,62,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Você É Minha Religião: O Melhor Do Maná (Deluxe Version),0T6xjJtpq2ZFsGb8WVBPfO,2012-10-26,18,50,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Você É Minha Religião: O Melhor Do Maná,5WAaAoLR8nGFRKoUSRq3wU,2012-10-26,14,37,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Exiliados En La Bahía: Lo Mejor De Maná (Edición Deluxe),2UPBr4XNMQ4vHHT0F4TxgR,2012-08-24,32,52,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Drama Y Luz Edición Deluxe,6JXg4yfjaH0JIZBofuVS2u,2011-11-15,16,58,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Drama Y Luz,1sqgDb8MhdXgKAdGGLny9g,2011-04-11,12,61,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Drama Y Luz (2020 Remasterizado),6S9XDiLlrQLGYpxmalrcuN,2011,14,48,Maná,13351466,82,"rock en español, latin rock, mexican rock, latin pop"
+rock,Live In Paris '79,2M8h9sC6Ffu9kz7ZHWgHcy,2011,22,41,Supertramp,3923465,73,"progressive rock, classic rock"
+rock,The Pale Emperor,0F9brQbQ3vLDYyTElx9f9n,2015-01-19,13,50,Marilyn Manson,4924723,75,"industrial metal, industrial rock, industrial, metal, nu metal"
+rock,Born Villain,3LHOep5q4yGo96ui8fpSST,2012-04-29,14,38,Marilyn Manson,4924723,75,"industrial metal, industrial rock, industrial, metal, nu metal"
+rock,The Devil Put Dinosaurs Here,0uz3QSBmc0lTYVo2svp4mB,2013-05-28,12,55,Alice In Chains,6131966,78,"grunge, post-grunge"
+rock,No Fixed Address,4rSK3TjA9dzKOVv0M8gGxA,2014-11-17,11,65,Nickelback,7765163,82,"post-grunge, rock"
+rock,Here and Now,2gMWwDIxxGIiblnv1pQHyd,2011-11-14,11,64,Nickelback,7765163,82,"post-grunge, rock"
+rock,Turn Blue,6TvxpBzf9c8H1fsrAaQ8t3,2014-05-09,11,60,The Black Keys,4135145,74,"blues rock, garage rock, modern blues, rock"
+rock,El Camino,5DLhV9yOvZ7IxVmljMXtNm,2011-12-06,11,63,The Black Keys,4135145,74,"blues rock, garage rock, modern blues, rock"
+rock,Comedown Machine,4WnkQO4xD9ljQooB3VIxCV,2013-03-25,11,64,The Strokes,6395454,78,"garage rock, indie rock, alternative rock"
+rock,Angles,6Jx4cGhWHewTcfKDJKguBQ,2011-03-21,10,61,The Strokes,6395454,78,"garage rock, indie rock, alternative rock"
+rock,Everything Will Be Alright In The End,5bwoCpDhski3iIxwsdgPTM,2014-10-07,13,43,Weezer,4517654,76,alternative rock
+rock,Hurley (Deluxe Edition),1FXneUyo0D1lnMZ0Nv3sw8,2010-09-14,14,35,Weezer,4517654,76,alternative rock
+rock,Death to False Metal (International Version),4mTGfGAV4rIdkmjOvsZAk0,2010-01-01,11,25,Weezer,4517654,76,alternative rock
+rock,Lo Mejor De Miguel Rios,2EVCyniPdPfMFJGqQ5uZbx,2013-01-01,14,11,Miguel Ríos,321479,56,"rock en español, trova"
+rock,Bye Bye Rios: Rock Hasta el Final (En Directo),15hOm0GUQEehqeks515zka,2011-04-12,20,35,Miguel Ríos,321479,56,"rock en español, trova"
+rock,Bye Bye Rios: Rock Hasta el Final (Bonus Track) [En Directo],0ECNdG13JmSRcdgKZH0T0u,2011-04-12,21,27,Miguel Ríos,321479,56,"rock en español, trova"
+rock,Lightning Bolt,01WEcEzoa9mfh8fIDhvV1M,2013-01-01,12,57,Pearl Jam,9824823,78,"grunge, rock, post-grunge"
+rock,Second Helping - Live From Jacksonville At The Florida Theatre,4HNf2DXSkCBuBVJE5nxZ0s,2015-10-23,8,22,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,Pronounced ‘Leh-‘nérd ‘Skin-‘nérd,2GtOiYDDdU4jK2Q6uQnSr4,2015-10-23,8,27,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,One More For The Fans (Live),2ozyyppkepXcWyxvdNbDmi,2015-07-24,19,29,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,Sweet Home Alabama - Live At Rockpalast 1996,3GPv2WNdmoyUx3WZwVjBsh,2015-06-02,17,23,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,Last of a Dyin' Breed (Special Edition),4rRCrcBlh0Io9edrPT0oxd,2012-08-17,15,40,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,Last of a Dyin' Breed,7K0F8oeNuBaN9NBSlBX9VO,2012-08-17,11,22,Lynyrd Skynyrd,5813577,77,"southern rock, classic rock, rock"
+rock,Que Esperas (Versión Exclusiva),2vd3SPSRppBEPjRWoFTDRp,2015-03-17,14,50,Coti,317691,64,"argentine rock, latin pop"
+rock,Lo Mejor De Coti,3LPEL3f2CQoEfr7xnxkDvR,2013-01-01,12,9,Coti,317691,64,"argentine rock, latin pop"
+rock,Lo Dije Por Boca De Otro Edición 2013,0EA6l9BDFx6EpRO00aIhfq,2013-01-01,14,31,Coti,317691,64,"argentine rock, latin pop"
+rock,Lo Dije Por Boca De Otro,0hjoesfOC12QmzkVARsTZe,2012-01-01,13,10,Coti,317691,64,"argentine rock, latin pop"
+rock,Monuments to an Elegy,5PubMxaRzGCCgqrp3j1AfY,2014-12-05,9,33,The Smashing Pumpkins,5992563,76,"alternative rock, rock"
+rock,Oceania,3QqIpBZ7rQ9cBUwy6p0rIn,2012-01-01,13,28,The Smashing Pumpkins,5992563,76,"alternative rock, rock"
+rock,Monster,4bEGlyQHzCfjrqryGwmXD5,2012-01-01,12,31,KISS,10834493,75,"glam metal, glam rock, hard rock, rock, classic rock"
+rock,Vital Signs,0NmzhdoPm5f1LiKBAqbrY2,2013-06-25,10,37,Skillet,5779584,77,"christian rock, christian alternative rock, christian"
+rock,Rise (Deluxe Edition),3AUIurHdBrfvqSs7EEr3AA,2013-06-21,15,62,Skillet,5779584,77,"christian rock, christian alternative rock, christian"
+rock,Rise,5KvnwzBqPi6lNgnjqG6b9C,2013-06-21,12,44,Skillet,5779584,77,"christian rock, christian alternative rock, christian"
+rock,iTunes Session (Live),0E6XWT61Oo5on7HWhFkh7F,2010-11-12,8,29,Skillet,5779584,77,"christian rock, christian alternative rock, christian"
+rock,Meliora,7wcMxzlZFIxccoeiSix0O2,2015-01-01,10,54,Ghost,3716652,77,"metal, hard rock"
+rock,Infestissumam (Commentary Version),6M2qTbTeWKn8xXxjd9XMAs,2013-01-01,10,23,Ghost,3716652,77,"metal, hard rock"
+rock,Infestissumam,32CbQps06lUasiux6N8tP3,2013-01-01,10,56,Ghost,3716652,77,"metal, hard rock"
+rock,Opus Eponymous,5aEgt9uHrVL3QGzKaUSy2J,2010-10-18,9,51,Ghost,3716652,77,"metal, hard rock"
+rock,MTV Unplugged (The Studio Edits),0qnfKJaZ29PXoBeMIuUkrb,2014-04-14,10,47,Scorpions,8484351,76,"hard rock, glam metal, rock"
+rock,MTV Unplugged,7HUFiEGHoty4bhJetqJa3h,2013-12-02,24,46,Scorpions,8484351,76,"hard rock, glam metal, rock"
+rock,Comeblack,4vQ96yyyYbaeTQujH3iTtd,2011-11-07,13,66,Scorpions,8484351,76,"hard rock, glam metal, rock"
+rock,Sting in the Tail,3n2WzsBMJtfoV1kYIQZOLj,2010-03-22,12,47,Scorpions,8484351,76,"hard rock, glam metal, rock"
+rock,Real Real Blondie,1foXyN4r1Q52Ld8Va7xPl5,2015-10-12,13,19,Blondie,1842663,72,
+rock,Ghosts of Download,3KsFi9OJLtGQP7WIBvTX82,2014-05-12,13,16,Blondie,1842663,72,
+rock,Panic of Girls,3taJK6ccQov0Z5FlKox65t,2011-05-30,11,19,Blondie,1842663,72,
+rock,Sadnecessary,1iCwsK0jUzBPQx7XEpumbz,2013-05-31,14,71,Milky Chance,2064502,74,
+rock,Helios,4Z1kH6bfeeMYtCuhnR4vEr,2014-02-24,11,47,The Fray,4264851,76,
+rock,Scars & Stories,4dzceu1HEO3ocztLHl1Dom,2012-03-05,17,30,The Fray,4264851,76,
+rock,She's So Unusual - Spotify Commentary,47jID5Vh9wlg2KXBC0O6lU,2014-04-01,8,6,Cyndi Lauper,3230807,74,
+rock,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),4pox3k0CGuwwAknR9GtcoX,2014-03-28,22,61,Cyndi Lauper,3230807,74,
+rock,Memphis Blues,7e8llQbStheFoOuhyvJGLo,2010-01-01,11,22,Cyndi Lauper,3230807,74,
+rock,Live in Dublin,0Xp6SFQ4zVcn7HQpKIjMGm,2015-01-01,15,31,Daryl Hall & John Oates,2810043,77,"yacht rock, soft rock"
+rock,"VS. (Other People’s Heartache, Pt. III)",1YXsPGQingGkJZLA8uuQNL,2014-12-01,9,41,Bastille,5642703,76,
+rock,All This Bad Blood,5G6oMu9zNW2acdV0lqzI3L,2013-01-01,25,67,Bastille,5642703,76,
+rock,Mechanical Bull (Expanded Edition),0cRJKK0y1sfZEqWub4dK9v,2013-09-24,13,65,Kings of Leon,5724529,80,
+rock,Come Around Sundown (Expanded Edition),5xFZ4iElFbUFtOGX4lvdTM,2010-10-19,16,68,Kings of Leon,5724529,80,
+rock,Rocks and Honey,3IGNeYN3CQEJgVRKe5Q2eu,2013,14,20,Bonnie Tyler,2374556,72,
+rock,Live In Germany 1993,6pTe1JTx5nPU2zxQ8mTImV,2011-12-02,9,11,Bonnie Tyler,2374556,72,
+rock,Total Eclipse of the Heart,7dxLmXZ8lG2mRiXzapdy6R,2011-04-18,6,30,Bonnie Tyler,2374556,72,
+rock,Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale,16J9NCaxxRc2QW999f5V9H,2014-01-01,16,55,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+rock,Old Sock (Track By Track),0BeaxNPhOKKwwSBF5nMT1J,2013-03-12,24,29,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+rock,Old Sock,1SKOWmS3NFmWV9YQsUcBtB,2013-03-12,12,22,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+rock,Clapton,5Rkrz0jdb5BvaLPSbcvZoe,2010-09-27,16,42,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+rock,1,3QtNOiPGadcPDlniu8uUTg,2013-08-06,36,25,Duncan Dhu,944701,64,"rock en español, latin rock"
+rock,Sonic Highways,2qwN15acAl3sm3Idce5vK9,2014-11-09,8,48,Foo Fighters,12843389,79,"rock, post-grunge, alternative rock, grunge"
+rock,Wasting Light,5lnQLEUiVDkLbFJHXHQu9m,2011-04-12,11,62,Foo Fighters,12843389,79,"rock, post-grunge, alternative rock, grunge"
+rock,Strut,6ksKEEJaGLjotvGEyWaVNH,2014-09-23,12,47,Lenny Kravitz,3575790,75,
+rock,Black and White America,6LNHjMWCREImapsd1poDNg,2011-08-19,23,29,Lenny Kravitz,3575790,75,
+rock,Bulletproof Picasso,1PMnpn5UMsYVP8bLT2v7U5,2014-09-16,12,44,Train,4503292,75,soft pop
+rock,California 37,5zseibu9WEsPaZmkJUMkz1,2012-04-17,11,69,Train,4503292,75,soft pop
+rock,"Save Me, San Francisco (Golden Gate Edition)",1CwXS6MAz8Wo7K4TzW9iuR,2010-12-01,19,72,Train,4503292,75,soft pop
+rock,Jeff Lynne's ELO - Alone in the Universe,5fAkVfg29AWfqz2bOQqykl,2015-11-13,12,41,Electric Light Orchestra,4420086,75,art rock
+rock,Electric Light Orchestra Live,4FzAX8otppBQf0PKJpFUF4,2013-04-22,11,29,Electric Light Orchestra,4420086,75,art rock
+rock,No Sound Without Silence,6yd9yk8nFcHalXzy7mgaDx,2014-09-15,11,67,The Script,8760246,79,
+rock,#3 Deluxe Version,7JOCOjZTcLysDMkZGWlcIj,2012-09-10,17,71,The Script,8760246,79,
+rock,Science & Faith (US Version),2oc73A20I1FTQiWGCkLeVP,2011-01-18,12,55,The Script,8760246,79,
+rock,Science & Faith,5rtaHEtZdWQSrKJmuqPTB0,2010-09-13,10,62,The Script,8760246,79,
+rock,Big Love,0Q1mR4f2xWsVHZhZrWh8AP,2015-05-29,13,35,Simply Red,2731740,73,
+rock,Farewell: Live in Concert at Sydney Opera House,2ROL02gUpj3nTbB6CCuEz3,2011-05-24,16,46,Simply Red,2731740,73,
+rock,Acoustique & More,3UJ5TATnxGgZGPREO7znde,2011-10-04,23,17,Foreigner,3769518,75,"aor, classic rock"
+rock,Acoustique,2gF8Jnw5wk6GxUqprhciLA,2011-10-04,14,17,Foreigner,3769518,75,"aor, classic rock"
+rock,Feels Like The First Time,2PkF7dq9jpgTbSN4y3AHdN,2011-09-13,23,55,Foreigner,3769518,75,"aor, classic rock"
+rock,...When It's Live,36KX5clIchU4mnUVaU3L8j,2010-11-16,16,41,Foreigner,3769518,75,"aor, classic rock"
+rock,Live In London 2010,7zIVAar5RsCUzD4JCzg04g,2010-07-31,10,14,Foreigner,3769518,75,"aor, classic rock"
+rock,Eclipse,6Cy7Pc8c8GO15uhqtcfykQ,2011-05-24,12,25,Journey,6416343,77,"aor, classic rock"
+rock,Live In Germany,4ZL37d12HZLfDLbmF46JZ1,2011-11-18,14,24,Heroes Del Silencio,2933287,71,"rock en español, latin rock, mexican rock, latin alternative"
+rock,Strangeland,6JWc4iAiJ9FjyK0B59ABb4,2012-05-07,18,54,Keane,3874685,77,
+rock,Night Train,1fwHxlyNXdNwJ95xOv9ZYP,2010-01-01,9,37,Keane,3874685,77,
+rock,Complete Rarities 1988-2011,4jxtCChrZapP34Zu3PwDON,2014-05-16,131,35,R.E.M.,5303751,76,"jangle pop, alternative rock, rock"
+rock,Collapse Into Now,2QfGdHHkWY0zBlwnMtoj9H,2011-01-01,12,44,R.E.M.,5303751,76,"jangle pop, alternative rock, rock"
+rock,Another Country (Deluxe),0mxhZtCx7PNVLRBO3K8XoG,2015-10-23,17,21,Rod Stewart,5501817,76,soft rock
+rock,Another Country,6mr7twuDKMgKVTl6sskYnS,2015-10-23,12,25,Rod Stewart,5501817,76,soft rock
+rock,Live 1976 - 1998: Tonight's the Night,6427BkrSWr5rVBOEWcYILd,2014-03-14,58,37,Rod Stewart,5501817,76,soft rock
+rock,The Studio Albums 1975 - 2001,08DXSE49P94Q0GdqJWmgU9,2014,141,28,Rod Stewart,5501817,76,soft rock
+rock,Time (Deluxe),4K5Ri11g53a0uodZ94JzF7,2013-01-01,28,21,Rod Stewart,5501817,76,soft rock
+rock,Time,3wwODQlvp1nxaQNyLKS5Vy,2013-01-01,12,29,Rod Stewart,5501817,76,soft rock
+rock,"Merry Christmas, Baby (Deluxe Edition)",11E8YDVhtljf7D9jVUL62i,2012-01-01,16,17,Rod Stewart,5501817,76,soft rock
+rock,"Merry Christmas, Baby",7mcyR9Z35tlZoa0nC7PnuH,2012-01-01,13,33,Rod Stewart,5501817,76,soft rock
+rock,Fly Me To The Moon...The Great American Songbook Volume V (Deluxe Version),7ilPivIyDt1DF8QOz2usD1,2010-10-15,18,36,Rod Stewart,5501817,76,soft rock
+rock,Fly Me To The Moon...The Great American Songbook Volume V,1Qy7vORyImzsfU89puG4gV,2010-10-15,12,44,Rod Stewart,5501817,76,soft rock
+rock,The Last Ship (Super Deluxe),2nnAcZyupXj6rjsO64i57S,2013-01-01,20,23,Sting,3808181,75,soft rock
+rock,The Last Ship (Deluxe),2aMkKzCvsavPM8bLNFM844,2013-01-01,17,42,Sting,3808181,75,soft rock
+rock,The Last Ship,5KSKxWGQt6CB4gi7N8S14i,2013-01-01,12,21,Sting,3808181,75,soft rock
+rock,Singer Pur Sings Sting,4agxMvuKq26G0ukcfN2Td1,2012-07-03,14,5,"Sting, Singer Pur",3808181,75,soft rock
+rock,Symphonicities (Bonus Track Version),3YMwrJSucJpIs5pNatXHNs,2010-01-01,13,17,Sting,3808181,75,soft rock
+rock,Symphonicities,1dpyonY9ev2z5a7rwfERZh,2010-01-01,12,41,Sting,3808181,75,soft rock
+rock,Live In Berlin,6adPwMLvUlBuL6WfExnCUu,2010-01-01,14,41,Sting,3808181,75,soft rock
+rock,Magnetic (Deluxe Version),35jYPfl0Y8rCfMU2EkO56x,2013-06-07,13,40,The Goo Goo Dolls,3382985,80,
+rock,Magnetic,2pYRp07Kxh0sFzKahkaMZl,2013-06-04,11,51,The Goo Goo Dolls,3382985,80,
+rock,Something for the Rest of Us (Deluxe),10yO1S1f2EyIzGmCxGoBf7,2010-08-27,15,28,The Goo Goo Dolls,3382985,80,
+rock,The Universe Smiles Upon You,32MaUU5gk5Ig0nHC9G5VNX,2015-11-06,10,63,Khruangbin,2166401,73,neo-psychedelic
+R&B,Venice,2Wl2eLBIbjAt6AZwd07IxG,2014-10-28,16,47,Anderson .Paak,2693379,79,
+R&B,Distant Lover,4vvWW7JUBASZzXtjMpqBks,2015-08-25,14,5,Marvin Gaye,5915914,76,"motown, classic soul, soul, northern soul, quiet storm"
+R&B,The Masquerade is Over - Early Hits,2fwj2s6ozTYoDzrSHywTSJ,2014-07-11,12,5,Marvin Gaye,5915914,76,"motown, classic soul, soul, northern soul, quiet storm"
+R&B,Live Pack - Marvin Gaye,2gPKsIQptwIWAFF7dGIcKq,2011-03-22,9,2,Marvin Gaye,5915914,76,"motown, classic soul, soul, northern soul, quiet storm"
+R&B,The Marvin Gaye Collection,0Q3zkIW2hLXbBieWZCKXwO,2011-01-01,11,28,Marvin Gaye,5915914,76,"motown, classic soul, soul, northern soul, quiet storm"
+R&B,Aquarius,6zXUDBGLbrB9Kgkw2Y3F7L,2014-10-01,18,70,Tinashe,3063413,80,alternative r&b
+R&B,Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale,16J9NCaxxRc2QW999f5V9H,2014-01-01,16,55,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+R&B,Old Sock (Track By Track),0BeaxNPhOKKwwSBF5nMT1J,2013-03-12,24,29,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+R&B,Old Sock,1SKOWmS3NFmWV9YQsUcBtB,2013-03-12,12,22,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+R&B,Clapton,5Rkrz0jdb5BvaLPSbcvZoe,2010-09-27,16,42,Eric Clapton,6518739,74,"blues, blues rock, classic rock"
+R&B,Holiday,2clJOOkMz707eU2OnHgS0z,2014-10-21,13,25,"Earth, Wind & Fire",4991078,77,"funk, disco"
+R&B,The Promise,0bVTNgVEz7AGjx895N4vWO,2014-06-10,18,25,"Earth, Wind & Fire",4991078,77,"funk, disco"
+R&B,You Should Be Here,3JFEZqTae3svhW8226cnNL,2015-04-28,14,49,Kehlani,8504068,81,
+R&B,Cloud 19,0Z4zmV6ITJ6PUjCmAsHxdE,2014-08-26,7,37,Kehlani,8504068,81,
+R&B,T R A P S O U L,6eZdwrhB97A3EYx9QppGfl,2015-10-02,14,80,Bryson Tiller,10439171,83,"trap soul, r&b"
+R&B,Kauai,7DtpLngwHYD5j0lZlMFuwU,2014-10-03,7,53,Childish Gambino,14425197,81,
+R&B,Because the Internet,5h0KYWMZIg8xT6eRGYkNMh,2013-12-10,19,71,Childish Gambino,14425197,81,
+R&B,Heartbeat (Remix Bundle),1ggioHYkuCAwO0ZIEB27Pm,2012-02-14,8,24,Childish Gambino,14425197,81,
+R&B,Camp,01MRGgNbfWrE291tQjw9ta,2011-11-15,13,77,Childish Gambino,14425197,81,
+R&B,Camp (Deluxe Edition),6y08a862sRi9ILcYGkLljn,2011,17,26,Childish Gambino,14425197,81,
+R&B,Wildheart (Deluxe Version),6W8ZsoinSMViZMh9aYK7gQ,2015-06-26,16,55,Miguel,6043546,81,r&b
+R&B,Wildheart,6b5WANFyoXhaMTXPqLF6ez,2015-06-24,13,54,Miguel,6043546,81,r&b
+R&B,Spotify Sessions London,3RpDqtToIqvKnD6iQe9WT4,2013-07-02,8,26,Miguel,6043546,81,r&b
+R&B,Kaleidoscope Dream - Track by Track Commentary,6VcyVQu3YmkzIWvxHVyCCB,2012-10-15,13,8,Miguel,6043546,81,r&b
+R&B,Kaleidoscope Dream,4c37f9SDnzZ4Sj9ZLF35r0,2012-10-01,13,47,Miguel,6043546,81,r&b
+R&B,Kaleidoscope Dream (Deluxe Version),4Rvzx3X6hcDb7nty1IzVP4,2012,15,60,Miguel,6043546,81,r&b
+R&B,All I Want Is You,493HYe7N5pleudEZRyhE7R,2010-11-26,13,77,Miguel,6043546,81,r&b
+R&B,Everything Is 4,59eUYETmE1zi31ESb3SUkI,2015-05-29,11,67,Jason Derulo,12463540,80,
+R&B,Spotify Sessions,6OFv8k32CcUZGXBoZQ0IiD,2015-01-13,11,21,Jason Derulo,12463540,80,
+R&B,Tattoos (Special Edition),45WiY2DUJyqbIKfHnQo4lN,2013-09-10,18,56,Jason Derulo,12463540,80,
+R&B,Tattoos (Deluxe Edition),3wDeTllVvayYsWTHsFNWZQ,2013-09-10,15,58,Jason Derulo,12463540,80,
+R&B,Tattoos,1OdcBxCNY52OXH0r4odXqP,2013-09-10,11,66,Jason Derulo,12463540,80,
+R&B,Reloaded,4ynK4FItUnQEpy1skJy9qq,2011-12-16,12,26,Jason Derulo,12463540,80,
+R&B,Future History Platinum Edition,49SayFufMgfcW4off39Gl6,2011-09-26,14,24,Jason Derulo,12463540,80,
+R&B,Future History,3SrcL9F89iueudJ4v9Vbgo,2011-09-26,28,17,Jason Derulo,12463540,80,
+R&B,Future History (Deluxe Edition),31tCg5RXhY5jpagfCPcQa2,2011-09-16,14,63,Jason Derulo,12463540,80,
+R&B,Jason Derulo (International),0DEsmIQ5ir7tz52Nkf4i1K,2010-02-26,10,68,Jason Derulo,12463540,80,
+R&B,Whitney Houston Live: Her Greatest Performances,36ofDpRRmMmSVVmsynRAs0,2014-11-10,16,42,Whitney Houston,11437949,79,
+R&B,PARTYNEXTDOOR TWO,1xwhNJCfTwuRia7Cpo7IbJ,2014-07-29,12,76,PARTYNEXTDOOR,9821714,87,"dark r&b, r&b, trap soul"
+R&B,PARTYNEXTDOOR,1q4B7r3dzzwkarZ1B9bk9e,2013-07-01,10,75,PARTYNEXTDOOR,9821714,87,"dark r&b, r&b, trap soul"
+R&B,Beauty Behind The Madness,0P3oVJBFOv3TDXlYRhGL7s,2015-08-28,14,82,The Weeknd,110809317,97,
+R&B,Kiss Land (Deluxe),6wRev1uYL0JsMsWqktJuVi,2013-09-10,12,55,The Weeknd,110809317,97,
+R&B,Kiss Land,3hhDpPtCFuQbppwYgsVhMO,2013-09-10,10,62,The Weeknd,110809317,97,
+R&B,Trilogy,2XGEyGU76kj55OdHWynX0S,2012-11-13,30,66,The Weeknd,110809317,97,
+R&B,Echoes Of Silence (Original),04hy4jb1GDD00otiwzsFUB,2011-12-21,9,60,The Weeknd,110809317,97,
+R&B,Thursday (Original),6F87lH0I09qlrzvCCKc7lz,2011-08-18,9,61,The Weeknd,110809317,97,
+R&B,House Of Balloons (Original),7zCODUHkfuRxsUjtuzNqbd,2011-03-21,9,78,The Weeknd,110809317,97,
+R&B,Royalty (Deluxe Version),0VWmEVuQ8tA5iA3cCTrgxa,2015-12-18,18,65,Chris Brown,27764489,91,r&b
+R&B,Fan of A Fan The Album (Expanded Edition),4neocSMt40stXKK2B8Sy2G,2015-02-24,16,74,"Chris Brown, Tyga",27764489,91,r&b
+R&B,X (Expanded Edition),3LByoNjO4gbuX5D0u26LDY,2014-09-16,22,73,Chris Brown,27764489,91,r&b
+R&B,Fortune (Expanded Edition),4AGQTp6rk7v8fPbFu739l7,2012-07-03,22,64,Chris Brown,27764489,91,r&b
+R&B,F.A.M.E. (Expanded Edition),6df0qvkMXoyHGt9J8cujZb,2011-03-22,18,74,Chris Brown,27764489,91,r&b
+R&B,Revolver (Expanded Edition),7rWNM4Q11nvmpHOuSnLFME,2011-12-06,20,62,T-Pain,5702403,83,
+R&B,Hato Rey,6gvkUEbCnJjaT6AKFaAPfb,2015-03-24,14,40,Alvaro Diaz,1428990,78,
+R&B,Alicia Keys - VH1 Storytellers,2JimBGRjtQcmMriFKlNaf9,2013-06-23,11,32,Alicia Keys,12781496,81,"r&b, neo soul"
+R&B,Girl On Fire,3qqhNVbjLFNdLviBFrFwCa,2012-11-26,13,50,Alicia Keys,12781496,81,"r&b, neo soul"
+R&B,Looking 4 Myself (Expanded Edition),7eyuQZCLG5tdjWpKZbDE8g,2012-06-12,18,60,USHER,13567594,84,r&b
+R&B,Versus,6bnDvfVdO3LarvcpWEzmeD,2010-08-24,9,39,USHER,13567594,84,r&b
+R&B,Raymond v Raymond (Expanded Edition),6A1F3Fkq5dYeYYNkXflcTX,2010-03-30,22,78,USHER,13567594,84,r&b
+R&B,channel ORANGE,392p3shh2jkxUxY2VHvlH8,2012-07-10,17,83,Frank Ocean,19897264,88,
+R&B,XSCAPE - Track by Track Commentary,54WFfZzds26NrwcmStfamd,2014-05-09,8,25,Michael Jackson,36834591,87,
+R&B,XSCAPE,7pomP86PUhoJpY3fsC0WDQ,2014-05-09,17,74,Michael Jackson,36834591,87,
+R&B,Bad 25th Anniversary,24TAupSNVWSAHL0R7n71vm,2012-09-18,24,71,Michael Jackson,36834591,87,
+R&B,Michael,5S7ySBYbWKsZdVYQrNtrWf,2010-12-10,7,55,Michael Jackson,36834591,87,
+R&B,Free TC,325oe5W5EgQVcuzNwBBnmt,2015-11-13,15,52,Ty Dolla $ign,7133297,84,trap soul
+R&B,Ty $,5HIww7rzO5OTZTyj3pH0NR,2014-12-08,11,21,Ty Dolla $ign,7133297,84,trap soul
+R&B,Non-Fiction (Deluxe),4X7aga1TlyCmquHHd7otHy,2015-02-13,21,57,Ne-Yo,10067808,83,
+R&B,Non-Fiction,5dhyP4mwQcgKtoTdDmYhAO,2015-02-13,12,24,Ne-Yo,10067808,83,
+R&B,R.E.D. (Deluxe Edition),4HPdvrPf9RGfJ2hNYrODpC,2012-01-01,17,58,Ne-Yo,10067808,83,
+R&B,The Apprenticeship of Mr. Smith The Birth of Ne-Yo,11s8k3J0lstr48FJfbtooB,2010-11-02,12,12,Ne-Yo,10067808,83,
+R&B,Libra Scale,2qqB7RaEdn2Lkte4St3Ban,2010-01-01,10,57,Ne-Yo,10067808,83,
+R&B,Por Vida,6f5gAJpM85TE6aQ81h46T5,2015-02-04,9,70,Kali Uchis,9271410,87,
+R&B,BEYONCÉ [Platinum Edition],2UJwKSBUz6rtW4QLK74kQu,2014-11-24,20,75,Beyoncé,40942454,89,
+R&B,4,6sUoihv7EBflLLP4VriHUe,2011,18,54,Beyoncé,40942454,89,
+R&B,I Am...World Tour,5O7PYNgE3VLWrvB80fIaDZ,2010-11-26,25,50,Beyoncé,40942454,89,
+R&B,KonKrete Jungle,7BuPO7yqJYGScpH2Qq6ZSu,2014-02-04,12,33,Akon,5875112,85,
+R&B,Koncrete Vol. 1,3ZpfQDwafNdaEUnbWVHIlM,2013-12-17,10,32,Akon,5875112,85,
+R&B,Konvict Allstars,5OxggY6YGvJiYWskRN5T7W,2013-12-16,12,21,Akon,5875112,85,
+R&B,Z,2qCyMMQ785sPH4Yx25GQZ8,2014-04-08,10,62,SZA,32280365,91,r&b
+R&B,Cupid Deluxe,1bsLkHcWAGUao6Z1dHOEIB,2013-11-18,11,59,Blood Orange,1296049,76,art pop
+R&B,Coastal Grooves,5LMfBxAyFy41CavxGAykHR,2011-08-08,10,68,Blood Orange,1296049,76,art pop
+R&B,Kaytra to Do,04ujSnhw3iG2pdXbFsQIXK,2013-02-25,8,11,KAYTRANADA,1808876,76,
+R&B,A Curious Tale of Trials + Persons,4hXcI8zGSBClqEs72f0GGR,2015-09-18,10,27,Little Simz,1224939,69,
+R&B,E.D.G.E,32RJzqlapfiU0fr2l4SSW9,2014-10-03,13,21,Little Simz,1224939,69,
+R&B,Blank Canvas,1o0XDWp8dSojoZ7yZh6fgu,2014-10-03,12,22,Little Simz,1224939,69,
+R&B,PIL 2,6lpKs2PPj9w9WHdt7E6thd,2012-02-28,13,22,Ja Rule,2126754,73,east coast hip hop
+R&B,PIL 2,0Zd18i9wkHyAIS35NJZRmZ,2012-02-28,13,18,Ja Rule,2126754,73,east coast hip hop
+R&B,Altamira (Original Motion Picture Soundtrack),2p4P5RIVN3tDGci4MFWw48,2015-04-22,10,36,"Mark Knopfler, Evelyn Glennie",1715620,65,soft rock
+R&B,Tracker (Deluxe),6Ur3bjzX33x6rC1Z4cvrgj,2015-03-09,15,52,Mark Knopfler,1715620,65,soft rock
+R&B,Privateering (Deluxe Version),10XfWGXYcyZvIsxqMCEDUb,2012-01-01,25,49,Mark Knopfler,1715620,65,soft rock
+R&B,Jackie (Deluxe),1vxEYHEzZI2l1AyZOtVHKJ,2015-05-04,16,49,Ciara,7280859,74,
+R&B,Ciara,1ZhBKlFwsI2ppVo8LivPyG,2013-07-05,10,54,Ciara,7280859,74,
+R&B,The Collection,5Lh9Xz2JmT7VW2b9lkBr6a,2012-10-22,17,23,Ciara,7280859,74,
+R&B,Basic Instinct,5kcwxjSYHuuafWqUflsSsu,2010-12-10,11,47,Ciara,7280859,74,
+R&B,The London Sessions,4CgiEe8ECxncoOlDK93qzV,2014-11-28,12,32,Mary J. Blige,4317148,74,r&b
+R&B,Think Like a Man Too (Music from and Inspired by the Film),6Bvizrnjft6JCqMWSQbJTA,2014-06-13,14,22,Mary J. Blige,4317148,74,r&b
+R&B,A Mary Christmas,54qQgflPZiLpk3YZtQf4Ke,2013-01-01,12,21,Mary J. Blige,4317148,74,r&b
+R&B,Rock of Ages,47J9U3otPqvAbwV8extILp,2012-06-08,20,43,"Tom Cruise, Catherine Zeta-Jones, Alec Baldwin, Russell Brand, Paul Giamatti, Mary J. Blige, Julianne Hough, Diego Boneta",7321,0,
+R&B,My Life II...The Journey Continues (Act 1) [Deluxe],3WeHs97FOthe9WOS3mBh7g,2011-01-01,17,26,Mary J. Blige,4317148,74,r&b
+R&B,My Life II...The Journey Continues (Act 1),4wrDyFWFk6ZBEAcn1auEoP,2011-01-01,14,18,Mary J. Blige,4317148,74,r&b
+R&B,Stronger with Each Tear (International Version),12CHmZQWSarBsEUtasPtbA,2010-01-01,15,20,Mary J. Blige,4317148,74,r&b
+R&B,A Wonderful Christmas With Ashanti (Deluxe),3CyCx7ADsUVTAz20eTYm0C,2014-10-28,8,7,Ashanti,3526203,74,r&b
+R&B,Braveheart,5F4188CYajXhkZuFI4Jl83,2014-03-04,13,26,Ashanti,3526203,74,r&b
+R&B,Maryland (Disorder),6jXOkmn6RsKDlRtDCaI2Y8,2015-05-16,15,28,Gesaffelstein,1206620,74,
+R&B,Aleph,3MiiF9utmtGnLVITgl0JP7,2013-10-28,14,52,Gesaffelstein,1206620,74,
+R&B,HITNRUN Phase Two,1Z7W9oZNZD3ySSnZkRzJgd,2015-12-12,12,31,Prince,7805890,73,"funk, funk rock"
+R&B,HITNRUN Phase One,3D71T1JXEsvaTbz7At9NhE,2015-09-07,11,22,Prince,7805890,73,"funk, funk rock"
+R&B,PLECTRUMELECTRUM,675uV1x91y53JcI7elQN2b,2014-09-26,12,26,"Prince, 3RDEYEGIRL",7805890,73,"funk, funk rock"
+R&B,ART OFFICIAL AGE,1xRg9g9QCGjFp9poxLnU5M,2014-09-26,13,32,Prince,7805890,73,"funk, funk rock"
+R&B,20Ten,14FmMNCbgVpLnNDlBcPS00,2010-07-10,10,22,Prince,7805890,73,"funk, funk rock"
+R&B,Silence,2s7lwmva05g4kccq1f31oK,2014-06-11,14,39,Russ,5474700,77,
+R&B,Brain Dead,2kZ8n3EFPdiWXM5x2j0JxF,2014-03-23,12,33,Russ,5474700,77,
+R&B,Pink Elephant,0NI2guYRXuRQvjAiSrhfh5,2014-01-22,8,47,Russ,5474700,77,
+R&B,Color Blind,3TS0aPsOU08Eu3Jr5NSWPz,2013-09-02,13,30,Russ,5474700,77,
+R&B,The Edge,3kPc19Tdm25i0GCfjvtcOz,2013-06-12,25,27,Russ,5474700,77,
+R&B,Vacation,5vBogQencvbV8I0N38tf5E,2012-10-30,14,23,Russ,5474700,77,
+R&B,5280,6K4fDvF7E5uqN1BsvYUYFp,2012-07-25,12,22,Russ,5474700,77,
+R&B,Straight from Limbo,5x1YzNGPlD0K2rExbgMa7k,2012-04-25,19,31,Russ,5474700,77,
+R&B,Apollo 13,4FWRkDpjc2nCoYtGeNYNIp,2012-01-24,8,23,Russ,5474700,77,
+R&B,Velvet,5WzxgdzPvlq825wikQSRjv,2011-12-09,8,21,Russ,5474700,77,
+R&B,Hard Knocks,6pr2OYrD23UO98lL9lp1Mp,2012-01-24,10,27,Joe Cocker,2580275,67,
+R&B,Souled Out (Deluxe),6UKXuiWFuwxzC5rd0SW4Bo,2014-09-08,14,63,Jhené Aiko,9523680,80,r&b
+R&B,Sail Out,73TNMu44lT0m1h1Nn6Bfiq,2013-01-01,7,70,Jhené Aiko,9523680,80,r&b
+R&B,Talk A Good Game (Deluxe Edition),059i5tLNW2ASf1qoVn6LSX,2013-01-01,15,48,Kelly Rowland,3668351,72,
+R&B,Talk A Good Game,4E8UUUe0aXUPor4TD3P9m8,2013-01-01,12,18,Kelly Rowland,3668351,72,
+R&B,Here I Am (Int'l Version),0fqSVcXza5It71LS2BJdLR,2011-01-01,17,46,Kelly Rowland,3668351,72,
+R&B,Here I Am (Deluxe Version),673D6VTmxJquUg31Wq1j0S,2011-01-01,14,58,Kelly Rowland,3668351,72,
+R&B,Here I Am,2O3zE7WwhqvcBLE997Ae4U,2011-01-01,10,29,Kelly Rowland,3668351,72,
+R&B,Turn Blue,6TvxpBzf9c8H1fsrAaQ8t3,2014-05-09,11,60,The Black Keys,4135145,74,"blues rock, garage rock, modern blues, rock"
+R&B,El Camino,5DLhV9yOvZ7IxVmljMXtNm,2011-12-06,11,63,The Black Keys,4135145,74,"blues rock, garage rock, modern blues, rock"
+R&B,Aretha Franklin Sings The Great Diva Classics,6GDaEPN935WkElYXTR6Ejd,2014-10-17,10,39,Aretha Franklin,3769777,71,"soul, motown, classic soul, jazz blues"
+R&B,Didn't It Rain: The Chicago Sessions (Live),0IBaf42lPARowaA0i2Nd4C,2014-03-30,12,6,Aretha Franklin,3769777,71,"soul, motown, classic soul, jazz blues"
+R&B,La Familia 013,53GOG940xY4LOpgD8YzQrJ,2013-10-08,13,63,Charlie Brown Jr.,8944973,78,"brazilian rock, mpb, brazilian pop"
+R&B,Música Popular Caiçara (Ao Vivo),4j8gmVMG1HM5oNyKRYNJWB,2012-04-12,15,40,Charlie Brown Jr.,8944973,78,"brazilian rock, mpb, brazilian pop"
+R&B,Música Popular Caiçara: Edição Luxo (Ao Vivo),6oXMHZ4TuFId1OgRb4Eb3Y,2012,29,66,Charlie Brown Jr.,8944973,78,"brazilian rock, mpb, brazilian pop"
+R&B,Papo Reto,0ZAr8mzCFeBQ0Rl5UpuWzS,2011-01-03,16,35,Charlie Brown Jr.,8944973,78,"brazilian rock, mpb, brazilian pop"
+R&B,Spotify Sessions,2nnlLfiRNxFpwErX4vjCSv,2015-06-23,14,6,Wale,4259556,76,
+R&B,The Album About Nothing,6aCr3UaB8lM9g6TtFB3qwd,2015-03-31,14,54,Wale,4259556,76,
+R&B,The Gifted,2m1DkB7oqaZu8BzAAUfwlq,2013-06-25,16,68,Wale,4259556,76,
+R&B,Money Dance,44nimSW0AiTZ5m7huqvylT,2013-05-01,12,21,Wale,4259556,76,
+R&B,Folarin,3m3w8mC8a3JnEMBHFHqIpn,2012-12-24,20,27,Wale,4259556,76,
+R&B,Panamera Lifestyle,0bYg61kfoQ91lscS4zpdzh,2012-12-10,12,10,Wale,4259556,76,
+R&B,G's In Maybach 2,6O1ZOZuTKIK1QyaodF3Xf1,2012-09-25,11,26,"Meek Mill, Wale",8259030,76,rap
+R&B,Ambition (Deluxe Version),36QdZp3YRchiFzffEyu5YL,2011-10-28,16,35,Wale,4259556,76,
+R&B,Ambition,0jCVC8ndYYOooEY2YTO1l6,2011-10-28,17,60,Wale,4259556,76,
+R&B,Late Nights: The Album,7DMyQuDPe8xzjC0UDSDa96,2015-12-04,15,72,Jeremih,7160835,77,
+R&B,All About You,4bvXnypUOYxHxRCelKN0dU,2010-01-01,11,61,Jeremih,7160835,77,
+R&B,Kool for the Holidays,6p2PrUp7AFngMrqUFYDHIe,2013-11-05,14,6,Kool & The Gang,2782779,71,"disco, funk"
+R&B,Tuskegee,1M2JVljAna8xFso9LEA1uH,2012-03-05,14,32,Lionel Richie,4430605,73,motown
+R&B,Tuskegee (Deluxe Version),5FnNO3IO6veN62ZdaV7j3z,2012-01-01,16,51,Lionel Richie,4430605,73,motown
+R&B,The Very Baddest of ZZ Top,3PvzCN4AY0dN3NsZ4c2i8z,2014-07-22,40,21,ZZ Top,4892571,73,"southern rock, classic rock, blues rock, rock"
+R&B,La Futura (Deluxe Version),3BS9MUmVKghsOa7Y3otqpE,2012-09-11,12,35,ZZ Top,4892571,73,"southern rock, classic rock, blues rock, rock"
+R&B,La Futura,6x2lSp3LAyn3GgB0E7rD4L,2012-09-11,10,43,ZZ Top,4892571,73,"southern rock, classic rock, blues rock, rock"
+R&B,Children Beyond,3Y4y50H5GIOBJHFLkkO1sV,2011,16,32,"Tina Turner, Regula Curti, Dechen Shak-Dagsay",4743138,72,
+R&B,But You Caint Use My Phone (Mixtape),2gc9WOWqVRrGUENUjozcpY,2015-11-27,11,52,Erykah Badu,3205263,70,"neo soul, r&b"
+R&B,New Amerykah Part Two: Return Of The Ankh,1MOub955Uer957RVqqkF2a,2010-03-30,11,54,Erykah Badu,3205263,70,"neo soul, r&b"
+R&B,Galileu (ao Vivo),2mwYeySiovjZRIX6VsAkn3,2015-01-01,15,59,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,Acústico,5WSufwHXuerKqxUiLZQ5To,2014-01-01,15,63,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,Geração de Samuel,6OdaGcbHHwObcOfiSTHeVj,2013-01-01,11,27,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,Teus Sonhos (ao Vivo),7v8K8QnGuMMIOQ8yzZqxDQ,2012-01-01,12,62,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,Sou Feliz Hinos Playback (Ao Vivo),1JLyaUpWO99b9gjCc4Dyms,2011-04-04,11,9,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,Sou Feliz (ao Vivo),3DBD91nUvqjxeiutDFUCVJ,2010-01-01,11,44,Fernandinho,7163551,75,"gospel, brazilian gospel, worship"
+R&B,The Buffet (Deluxe Version),0l4XFGgOoaDEdXoB62Hppw,2015-12-11,18,33,R. Kelly,2480593,70,r&b
+R&B,Black Panties (Deluxe Version),5dIRkoEPTKQLnVUJDzaE2F,2013-12-07,17,48,R. Kelly,2480593,70,r&b
+R&B,Write Me Back (Deluxe Version),4n5xKdi1WmB2o3JNSTgs6y,2012-06-22,16,31,R. Kelly,2480593,70,r&b
+R&B,Love Letter,6gKYZUK5BOMsaGCbJvNAYk,2010-12-13,15,38,R. Kelly,2480593,70,r&b
+R&B,19,7D9fLDGU0A95Y0rIakBJA4,2014-03-25,11,56,Jacquees,3473413,71,"r&b, trap soul"
+R&B,Twenty,03DEKGkvYKs8PQhhCLkuAa,2011-10-25,21,43,Boyz II Men,3577144,71,"new jack swing, r&b, quiet storm"
+R&B,Pra Onde Iremos? (Playback),1Oo45wIPtiMLFjkF47qTk0,2014-12-02,10,10,Gabriela Rocha,8764282,73,"gospel, worship, brazilian gospel, devotional"
+R&B,Pra Onde Iremos?,1ifW4VsChr6AgOvpmd8ZFo,2014-12-02,11,44,Gabriela Rocha,8764282,73,"gospel, worship, brazilian gospel, devotional"
+R&B,Jesus (Playback),4wQHLQb3buzKAAaKx39DgO,2012-10-01,12,8,Gabriela Rocha,8764282,73,"gospel, worship, brazilian gospel, devotional"
+R&B,Jesus,2PDO2DqKmVPbHIIoHvoaBd,2012-10-01,12,41,Gabriela Rocha,8764282,73,"gospel, worship, brazilian gospel, devotional"
+R&B,"Love, Marriage‎ & Divorce",77JvBkDfZ7r74mcQcTkdqM,2014-01-01,11,49,"Toni Braxton, Babyface",4503311,68,r&b
+R&B,Pulse,2aW8o2fX02d38656R9vNsx,2010-05-03,11,45,Toni Braxton,4503311,68,r&b
+R&B,I'm Real (Expanded),0nWs5H9EEUwvpyPlqaxfeD,2015-12-18,21,23,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,Lo Mejor De James Brown,4u3YAqKaTCkqd6aLpAj8wV,2015-07-17,15,14,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,Get On Up - The James Brown Story,6Wzf9BalBqQAenrUb9xzUH,2014-07-29,20,40,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,The Singles Vol. 10 1975-1979,4QDFEWZwtNO50dcVctW2L0,2011-02-11,36,28,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,The Singles: Vol. 9 1973-1975,0iQyfK5hgJyt9G9fsfr01X,2010-01-01,35,38,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,The Complete James Brown Christmas,0c33HCppp4S1OxiImIY6FC,2010-01-01,37,6,James Brown,2304983,65,"funk, soul, motown, classic soul"
+R&B,Live At The Forum,5mmXIdcurw7ZUjb3NIw0iG,2010-01-01,38,28,The Jackson 5,1843628,67,"motown, christmas"
+R&B,#NOFILTER (Ao Vivo),6mwUuFnDhorOobuc6GHv1h,2014-07-22,20,45,Natiruts,3570071,71,"reggae, mpb, roots reggae"
+R&B,Natiruts Acústico no Rio de Janeiro (Ao Vivo),1x2y04H5qSXOU9tzDZVT9i,2012-09-18,20,67,Natiruts,3570071,71,"reggae, mpb, roots reggae"
+R&B,Box Natiruts,6H7aEzVGlXJlMXfcZml7vP,2012-08-14,47,54,Natiruts,3570071,71,"reggae, mpb, roots reggae"
+R&B,Point Of No Return (Deluxe),2OlVVFS8QZfQLmAKkfIwmz,2014-10-07,13,26,Keyshia Cole,4287279,73,r&b
+R&B,Point Of No Return,6L9r38KsyYDx3iBLQlO27C,2014-10-07,11,20,Keyshia Cole,4287279,73,r&b
+R&B,Woman To Woman,1x0zRKHOcrWr6RaaDEkQVb,2012-01-01,12,33,Keyshia Cole,4287279,73,r&b
+R&B,Calling All Hearts,2RgKoQf4PYKhAf4Chd45jP,2010-01-01,11,40,Keyshia Cole,4287279,73,r&b
+R&B,The Electric Lady,3bnHtSmmsgJiG82hGCmsq9,2013-09-06,19,44,Janelle Monáe,1498330,68,alternative r&b
+R&B,The ArchAndroid,7MvSB0JTdtl1pSwZcgvYQX,2010-05-17,18,44,Janelle Monáe,1498330,68,alternative r&b
+R&B,Keep on Dancing,4c4x9os0OINZee0wz3dOrp,2012-03-26,9,5,Commodores,2094147,69,"motown, classic soul"
+R&B,Trigga Reloaded,3pKTKC0AAe3yTcXQLzvpSW,2015-06-23,18,63,Trey Songz,7734654,73,r&b
+R&B,Intermission I & II,0m8NYS3Trz6HLZnMAaFYiH,2015-05-18,12,35,Trey Songz,7734654,73,r&b
+R&B,Trigga (Deluxe),09ZagJCLFszgQZTlK99yqP,2014-07-01,20,54,Trey Songz,7734654,73,r&b
+R&B,Chapter V (Deluxe),24IexOT10jPuK3MR6cS3ag,2012-08-17,20,51,Trey Songz,7734654,73,r&b
+R&B,Chapter V,6tipnwV81Zqn7SM5FSsyvh,2012-08-17,18,35,Trey Songz,7734654,73,r&b
+R&B,"Passion, Pain & Pleasure (Deluxe Version)",3sDoSYf2AKB2IegZmkISGD,2010-09-14,20,63,Trey Songz,7734654,73,r&b
+R&B,MTV Unplugged,61PdQyk3HSwSM3tGy52NPS,2010-07-06,8,16,Trey Songz,7734654,73,r&b
+R&B,The Birth Of Songz Demo,5ye4PUe62VoUMiGFDRuqBk,2010,20,11,Trey Songz,7734654,73,r&b
+R&B,Hollywood: A Story of a Dozen Roses (Deluxe Version),79EyqF9taW9XFPKci2U5D9,2015-05-15,18,39,Jamie Foxx,1305214,71,
+R&B,Best Night Of My Life,3T1fgMprST5C4hhl19Xv40,2010-12-20,15,46,Jamie Foxx,1305214,71,
+R&B,No Boys Allowed,7lRRlf0zRaSki9s3YVRHcZ,2010-01-01,12,52,Keri Hilson,2132581,71,
+R&B,Summer In The Winter,6uG9BscYmPnAbtl6Cy9u91,2015-12-25,11,52,Kid Ink,2971755,71,
+R&B,Full Speed (Expanded Edition),3Y5gM9xG4U5bXyMjpPWIRP,2015-03-04,16,55,Kid Ink,2971755,71,
+R&B,Kid Ink,5WDtWaIJhkk3xpMLtNfWvc,2014-11-10,10,28,Kid Ink,2971755,71,
+R&B,My Own Lane (Expanded Edition),6qBNm8dkdowRUUrN7uwR11,2014-01-06,18,65,Kid Ink,2971755,71,
+R&B,Up & Away [Clean Version],5XXGoHwftmH3sDwO9KYpC6,2012-06-12,12,15,Kid Ink,2971755,71,
+R&B,Up & Away,4paev5Cl9EUa7XLg6I0xMR,2012-06-12,12,49,Kid Ink,2971755,71,
+R&B,Up & Away [Instrumental Version],4NXeGThanoN7UT5kvwEyxS,2012-06-11,12,8,Kid Ink,2971755,71,
+R&B,A Sunshine Christmas,5NtqaFK82R32k42d1AXpVd,2015-10-16,12,1,KC & The Sunshine Band,1175471,69,disco
+R&B,15 Classic Tracks: KC and the Sunshine Band,1I3GVDXwLPy9R10xyqV6l6,2013-05-03,15,33,KC & The Sunshine Band,1175471,69,disco
+R&B,Essential,5QcE5b48dwPoxjk5XpAytt,2012-03-19,17,33,KC & The Sunshine Band,1175471,69,disco
+R&B,I'll Be There for You,2DHN3iunO2gOB1ln6luPnJ,2010-12-29,14,3,KC & The Sunshine Band,1175471,69,disco
+R&B,Sings Songs From The Wiz,6H70Igleyfbki78maRqmXA,2015-11-27,13,24,Diana Ross,2168146,68,"motown, disco"
+R&B,King Of Hearts (Deluxe Explicit),3ot1bTixVtQCSoQtPGE7t3,2011-01-01,17,19,Lloyd,2733200,74,r&b
+R&B,King Of Hearts,0h9YfjL8ThHExpJcxHw6bj,2011-01-01,14,53,Lloyd,2733200,74,r&b
+R&B,LP1,25PQxi9SR1OODB5XG6m48J,2014-08-11,10,47,FKA twigs,1427812,67,"art pop, alternative r&b"
+R&B,Childhood Home,1LzGZidfjepFeFOHNxxrIX,2014-01-01,10,36,"Ben Harper, Ellen Harper",1052568,63,surf rock
+R&B,Get Up!,509oK7Arzl6Dk8qM3RbzMg,2013-01-01,10,23,"Ben Harper, Charlie Musselwhite",1052568,63,surf rock
+R&B,Get Up! (Deluxe Edition),1xu9bQjnB72GNFeH31UDX7,2013,15,20,"Ben Harper, Charlie Musselwhite",1052568,63,surf rock
+R&B,By My Side (Retrospective),3LBTIeX3u0zodXW4Hu7qXQ,2012-01-01,12,35,Ben Harper,1052568,63,surf rock
+R&B,Give Till It's Gone,1zeIbzLqIiqS6l5eCTzfRe,2011-01-01,11,26,Ben Harper,1052568,63,surf rock
+R&B,Live From The Montreal International Jazz Festival,2d7vyh0APgzw9TdsVgQ3ys,2010-01-01,14,12,"Ben Harper, Ben Harper And Relentless7",1052568,63,surf rock
+R&B,"J.J. Cale - Live on Kfc, San Francisco",2HFTlRmF2bHA7mMAqGCVmW,2015-02-20,7,9,J.J. Cale,839595,63,"blues, blues rock, roots rock"
+R&B,The Silvertone Years,1X3PZx1DOaH6ZrtDhpHwyb,2011-02-07,25,23,J.J. Cale,839595,63,"blues, blues rock, roots rock"
+R&B,Aquostic! Live at the Roundhouse,2fLkoGFcnx3Z4VLcobsmCA,2015-04-10,25,15,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Aquostic (Stripped Bare),3h89plfuG5GwCqJKxCpwOe,2014-10-17,23,29,Status Quo,840192,61,"glam rock, blues rock"
+R&B,The Frantic Four's Final Fling - Live at the Dublin O2 Arena,0GJFGlvN9lMvkP1Bol2Tzz,2014-08-29,19,18,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Back2sq1 - The Frantic Four Reunion 2013 (Live at Hammersmith),0EGNDnv8hU2GuyCTkN3KuE,2013-10-04,18,8,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Back2SQ1-The Frantic Four Reunion 2013 (Live At Wembley),3gZvcAERGTe4WqZWIK7nom,2013-10-04,16,10,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Bula Quo!,2ijW7gC5dMbhdrCyD6hZOC,2013-06-07,19,17,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Status Quo Live,4KCi7vTF0poyOvGubWV3I1,2013-01-01,35,19,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Quid Pro Quo,3UKPRD1ZG0emlwnHlIrsWm,2011-05-27,15,26,Status Quo,840192,61,"glam rock, blues rock"
+R&B,In the Army Now (2010),32o6c62KoCeVf8PXu58008,2010-09-24,9,18,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Live At The BBC,5Nx780igKtyoLCLAxPorqE,2010-01-01,105,19,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Live At The N.E.C.,5lA8eEcXBI4Zok8ICJDYxI,2010,17,17,Status Quo,840192,61,"glam rock, blues rock"
+R&B,Live at Bush Hall 2007,4V2aACSeR2zqgSWr9ivWIm,2014-09-22,13,19,Gary Moore,802041,62,"blues, blues rock"
+R&B,Blues For Jimi (Live),2ek94sOYmCYJJDHNiSzSzQ,2012-09-24,12,25,Gary Moore,802041,62,"blues, blues rock"
+R&B,IV Play (Deluxe),3sDWe0g9YNXac27jnEtjFQ,2013-01-01,18,28,The-Dream,1371845,69,r&b
+R&B,IV Play,3uS8JIWQU5qKjo9P9NutZP,2013-01-01,14,17,The-Dream,1371845,69,r&b
+R&B,Terius Nash : 1977,4Kah8HxEx8FpCKJ2CyFkQr,2012-01-01,12,22,The-Dream,1371845,69,r&b
+R&B,Love King,4BxwE5zdyn0JkGsqCQiRoJ,2010-01-01,12,23,The-Dream,1371845,69,r&b
+R&B,Live to Love,1FkKLER6tPVDdYUSZOWeyN,2013-02-05,10,62,Afgan,3424574,71,"indonesian pop, malay, indonesian r&b"
+R&B,The One,7GfylFxRPXIGHwKZTPlURg,2010-04-01,7,65,Afgan,3424574,71,"indonesian pop, malay, indonesian r&b"
+R&B,O Carnaval De Ivete Sangalo - Sai Do Chão (Ao Vivo),0ggbRn1mM1fojrFOGJl6lR,2015-12-11,18,36,Ivete Sangalo,2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+R&B,Viva Tim Maia,0s6eeWdtRBJjhWFjXG9Bcq,2015-07-31,12,42,"Ivete Sangalo, Criolo",2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+R&B,Multishow Ao Vivo - Ivete Sangalo 20 Anos (Live),3BezFc7G2hTrTO9o7WX2D2,2014-05-03,18,37,Ivete Sangalo,2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+R&B,O Carnaval De Ivete Sangalo 2015 (Ao Vivo),0BGtZFqDInZuJJvJa8jChx,2014-01-01,18,42,Ivete Sangalo,2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+R&B,As Nossas Canções,04TLo3kfhsjXttswMuBGbS,2013-01-01,16,34,Ivete Sangalo,2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+R&B,Real Fantasia (Deluxe Edition),2iIo25Rs0y5dgp3CGg64h1,2012-03-09,15,17,Ivete Sangalo,2209493,66,"axé, pagode baiano, mpb, brazilian pop"
+indie,Long Way Down (Expanded Edition),3t0Quq8X7W90hRP5OQ5S4b,2013-06-24,17,57,Tom Odell,4261664,80,
+indie,Long Way Down (Deluxe),0Gf1yE895FKK4YWVRuAeg8,2013-06-24,15,77,Tom Odell,4261664,80,
+indie,Long Way Down - Commentary Album,0v3kOqHczgXqcYKio67iUa,2013-04-01,10,10,Tom Odell,4261664,80,
+indie,"How Big, How Blue, How Beautiful (Deluxe)",2jn2n5OkuHliOLKCqHnjXV,2015-05-29,16,61,Florence + The Machine,7176835,81,baroque pop
+indie,MTV Presents Unplugged: Florence + The Machine,11JHRCPKllt4DDiaaBi3Kl,2012-01-01,11,45,Florence + The Machine,7176835,81,baroque pop
+indie,Ceremonials (Original Deluxe Version),19J2iqK89BCrNG4El2FRi5,2011-01-01,24,66,Florence + The Machine,7176835,81,baroque pop
+indie,Ceremonials,3JODIzr9NLL7CMojdUR70g,2011,15,61,Florence + The Machine,7176835,81,baroque pop
+indie,Between Two Lungs,1iA9sq6Ldnw1HP1YXpa8jh,2010-01-01,25,50,Florence + The Machine,7176835,81,baroque pop
+indie,Currents,79dL7FLiJFOO0EoehUHQBv,2015-07-17,13,82,Tame Impala,9216666,84,"neo-psychedelic, indie"
+indie,Live Versions,44RrnCW7pMIEiiAR3LIAVL,2014-05-16,9,39,Tame Impala,9216666,84,"neo-psychedelic, indie"
+indie,Lonerism,3C2MFZ2iHotUQOSBzdSvM7,2012-01-01,12,69,Tame Impala,9216666,84,"neo-psychedelic, indie"
+indie,InnerSpeaker,1DNSmmRLfv97Yjq7MTFWng,2010-05-21,11,58,Tame Impala,9216666,84,"neo-psychedelic, indie"
+indie,Battle Born (Deluxe Edition),6P6DYLagXUhE5Qq2l79Ef1,2012-09-17,15,44,The Killers,7935380,80,alternative rock
+indie,BCN,49Av22K1Doe8E6AfQrdWeI,2015-01-26,28,32,Supersubmarina,335518,55,indie
+indie,Viento de Cara,1H12cM0oy1TMb5snNa040x,2014-09-22,11,50,Supersubmarina,335518,55,indie
+indie,Santacruz,6F0M6o2oFl8pf52SbckNWf,2012-05-22,11,47,Supersubmarina,335518,55,indie
+indie,La Riviera (Directo),3Aj4ME4zTMrojPfQGfGaHP,2012,19,35,Supersubmarina,335518,55,indie
+indie,Electroviral,3zZwwjSezupxGaGELEHJzm,2010-04-13,14,26,Supersubmarina,335518,55,indie
+indie,Paradise Valley,712VoD72K500yLhhgqCyVe,2013-08-20,11,58,John Mayer,6191953,79,singer-songwriter
+indie,Born and Raised,6S0BIiWtnqU0PtumXMpin0,2012-05-18,12,58,John Mayer,6191953,79,singer-songwriter
+indie,Another One,5FiDVzxLqGtYjF5yzmMoj4,2015-08-07,8,69,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Some Other Ones,3f62e1h3kXSfQBBatUG7vq,2015-07-08,9,47,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Salad Days Demos,02UhY4AQiAry5S2ZpgEKIt,2014-06-17,14,45,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Salad Days,2sij95QgjmgrhNv33achzn,2014-04-01,11,72,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Live & Acoustic Vol. 1,6OfacVA7dz1R6n8qaa8yVh,2013-12-14,7,39,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,2 Demos,7pYV8ueufp0r0vnD1zkD0x,2013-11-15,10,46,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,2,2XgBQwGRxr4P7cHLDYiqrO,2012-10-16,11,74,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Rock and Roll Night Club,5EuKBNjwjjhqJAQqm6avdd,2012-03-13,12,48,Mac DeMarco,7837751,83,"indie, lo-fi indie"
+indie,Strange Trails,4sD1qg4jwTZR4mvR4Iflk5,2015-04-06,14,79,Lord Huron,2112598,80,
+indie,Lonesome Dreams,7y8c7gPYKbSq3mofsKJ1y8,2013-01-21,13,37,Lord Huron,2112598,80,
+indie,Shadows in the Night,2mVpSZrllFAWhOgCoyz8ow,2015-02-03,10,25,Bob Dylan,7313232,77,"folk rock, folk, singer-songwriter, roots rock, country rock"
+indie,"Another Self Portrait (1969-1971): The Bootleg Series, Vol. 10 [Deluxe Edition]",4LWewX01YWWghyjOWbuFXr,2013-08-27,53,38,Bob Dylan,7313232,77,"folk rock, folk, singer-songwriter, roots rock, country rock"
+indie,Tempest,3LnS0XKSzd2TFoagESGUw3,2012-09-10,10,32,Bob Dylan,7313232,77,"folk rock, folk, singer-songwriter, roots rock, country rock"
+indie,Bestival Live 2011,4BIu0GCMComOTwBzuS6PCI,2011-12-05,32,41,The Cure,6560996,78,"new wave, post-punk, gothic rock, darkwave"
+indie,Strangeland,6JWc4iAiJ9FjyK0B59ABb4,2012-05-07,18,54,Keane,3874685,77,
+indie,Night Train,1fwHxlyNXdNwJ95xOv9ZYP,2010-01-01,9,37,Keane,3874685,77,
+indie,La noche eterna. Los días no vividos,5fP8Ww6lVCwOaqcwSy1ae8,2012-05-18,18,42,Love of Lesbian,621796,60,indie
+indie,Impronta,7cQBUtJwVAKluOLttrga9m,2013-01-01,12,52,Lori Meyers,308154,56,indie
+indie,Cuando El Destino Nos Alcance,1Wi1sETJXV9JCa5KycSuBA,2010-01-01,11,45,Lori Meyers,308154,56,indie
+indie,Complete Rarities 1988-2011,4jxtCChrZapP34Zu3PwDON,2014-05-16,131,35,R.E.M.,5303751,76,"jangle pop, alternative rock, rock"
+indie,Collapse Into Now,2QfGdHHkWY0zBlwnMtoj9H,2011-01-01,12,44,R.E.M.,5303751,76,"jangle pop, alternative rock, rock"
+indie,Ana y el Artista Temerario,5V6Lo9wzP5H2Qwkk57tKro,2015-01-05,13,31,Shinova,104830,58,indie
+indie,French Exit,4Hai0uVzRbyTSaTPzxTY4e,2014-06-05,12,78,TV Girl,12094236,83,
+indie,The Ties That Bind: The River Collection,5QbfBwvuHoe2fz1TCCV6dX,2015-12-04,32,34,Bruce Springsteen,7220359,79,
+indie,High Hopes,6QH6ltpFEZXObrQHmgpKSN,2014-01-14,12,36,Bruce Springsteen,7220359,79,
+indie,Wrecking Ball,75kN1qUWvE10QcnpE6nEsM,2012-03-06,13,44,Bruce Springsteen,7220359,79,
+indie,The Promise,7oR8aZ4ECropTmxPydooZ9,2010-11-16,21,44,Bruce Springsteen,7220359,79,
+indie,Quien Me Ha Visto...,4v9By8Fiaq4Jz43ifw31Cz,2015-09-11,12,35,Rozalén,895181,64,singer-songwriter
+indie,Con Derecho A...,1t2OluRtbro9nSJsizuquA,2013-03-12,10,47,Rozalén,895181,64,singer-songwriter
+indie,AM,78bpIziExqiI9qztvNFlQu,2013-09-09,12,88,Arctic Monkeys,31572109,88,"indie, garage rock"
+indie,Suck It and See,2ym2jcqckXqWeTDoxz3Kst,2011-06-06,12,64,Arctic Monkeys,31572109,88,"indie, garage rock"
+indie,Wiped Out!,18iFxjZugvKhuNNMbLjZJF,2015-10-30,11,78,The Neighbourhood,21232455,86,
+indie,#000000 & #FFFFFF (No DJ Version),2mKqHATk7WVbtazVkSe9w0,2014-11-28,16,63,The Neighbourhood,21232455,86,
+indie,I Love You. (Chopped Not Slopped),7aoR56Mf03N4pZBFOjx0Oh,2013-10-28,12,30,"The Neighbourhood, OG Ron C",21232455,86,
+indie,I Love You. (Slowed Down),742rc3IvCNtvhEZIsjLfyu,2013-04-23,11,48,The Neighbourhood,21232455,86,
+indie,I Love You. (10th Anniversary Edition),5n7S9xN6tYY8aGJU3kE0Va,2013-04-23,15,66,The Neighbourhood,21232455,86,
+indie,I Love You. (Sped Up),6nDM0bDRJ1Ni1sMzx7YQ0J,2013-04-22,11,53,The Neighbourhood,21232455,86,
+indie,I Love You.,4xkM0BwLM9H2IUcbYzpcBI,2013-04-22,11,80,The Neighbourhood,21232455,86,
+indie,SUCKER,2fGpw56D35My0c82eNfKJF,2015-02-09,15,55,Charli xcx,6098145,86,"hyperpop, art pop"
+indie,True Romance (Deluxe),63az8CIMtCPKUSJxoaIiMk,2013-04-01,25,35,Charli xcx,6098145,86,"hyperpop, art pop"
+indie,True Romance,5t7Bn5XfE7yj2rqydVq0Ue,2013-04-01,13,46,Charli xcx,6098145,86,"hyperpop, art pop"
+indie,Volando de Catorce (Sonetos de viva voz),5h3U63OptmDHDZ4EPQaNDd,2015-04-01,11,11,Joaquín Sabina,3364684,70,"trova, singer-songwriter, nueva trova"
+indie,500 Noches para una Crisis (En Directo),2jES2ebdNVsrXtUXYEovme,2015-03-02,24,51,Joaquín Sabina,3364684,70,"trova, singer-songwriter, nueva trova"
+indie,El Simbolo y el Cuate,2GknfWNukaXr5gTMRrkfL8,2014-05-19,17,29,"Joan Manuel Serrat, Joaquín Sabina",1611947,63,"trova, nueva trova, singer-songwriter"
+indie,Serrat & Sabina (En El Luna Park - Argentina),1lzXpjoeiViNubwrLq5nDC,2012-11-05,14,32,"Joan Manuel Serrat, Joaquín Sabina",1611947,63,"trova, nueva trova, singer-songwriter"
+indie,La Orquesta Del Titanic,108E4NOKo5WRgoDADcLkCd,2012-02-07,11,28,"Joan Manuel Serrat, Joaquín Sabina",1611947,63,"trova, nueva trova, singer-songwriter"
+indie,Copacabana,4ApLmAxyvhQi7GGK5CMOgG,2015-09-18,12,54,IZAL,674958,61,indie
+indie,Directo Sonorama 2014 (En Directo),2pJUQOIAoPr3X5sNuskiAU,2014-11-17,12,19,IZAL,674958,61,indie
+indie,Agujeros de Gusano,2J3tzhwNm2jhGATxQmawOt,2013-10-29,13,48,IZAL,674958,61,indie
+indie,Magia & Efectos Especiales,1H0Kzu6QdUAuUDMGOIe271,2012-04-12,11,56,IZAL,674958,61,indie
+indie,Bailar en la cueva,1LtIOscLBDW8C8ZDDUriqi,2014-03-25,11,43,Jorge Drexler,906773,66,"trova, singer-songwriter, latin folk, nueva trova, candombe"
+indie,Amar la trama,2y9mUXC1v4zM2NqDwtwy4b,2010-03-15,12,47,Jorge Drexler,906773,66,"trova, singer-songwriter, latin folk, nueva trova, candombe"
+indie,The Devil Put Dinosaurs Here,0uz3QSBmc0lTYVo2svp4mB,2013-05-28,12,55,Alice In Chains,6131966,78,"grunge, post-grunge"
+indie,Wilder Mind (Deluxe),42IW6zI4h5pYONN6UsYrqj,2015-05-01,16,41,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,Wilder Mind,7LMz6ALQP2Jn9FdZmeeuiQ,2015-05-01,12,59,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,Babel (Deluxe Version),0jcOOqw8oVjs2ngnrndbsO,2012-09-21,15,54,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,Babel,64hKb8U28ebT5iDzcTrOsc,2012-09-21,12,37,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,The Road To Red Rocks Live,1aNvlLGPE2VvHEvhrOGSKp,2012-01-01,11,36,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,Sigh No More,0BIOzJBQIFQMvCqECIqvNh,2010-01-01,25,47,Mumford & Sons,6589696,76,"folk, indie folk, folk rock"
+indie,De polvo y flores,7xKn54vuBZarFs70PFBtAu,2013-03-05,12,35,Miss Caffeina,210069,52,indie
+indie,Imposibilidad del fenómeno,4jrxwE2NqPv9FmFJylPeH5,2010-06-22,11,30,Miss Caffeina,210069,52,indie
+indie,The 1975 (Deluxe),74EKsgjD5GJOJpthJ59dhQ,2013-09-02,39,59,The 1975,7905106,79,
+indie,Live From Gorilla,1NyNPAl23yPt6mO89nDAEe,2013-09-01,16,31,The 1975,7905106,79,
+indie,The 1975,6Z1zv6Hw9bdvSoxI5uYk2h,2013-01-01,16,66,The 1975,7905106,79,
+indie,Comedown Machine,4WnkQO4xD9ljQooB3VIxCV,2013-03-25,11,64,The Strokes,6395454,78,"garage rock, indie rock, alternative rock"
+indie,Angles,6Jx4cGhWHewTcfKDJKguBQ,2011-03-21,10,61,The Strokes,6395454,78,"garage rock, indie rock, alternative rock"
+indie,La Velocidad Del Vacío. Remixes.,2MgGeZ74kvUR6M8vH1hdUG,2014-02-03,8,14,Dorian,260791,57,indie
+indie,La Velocidad Del Vacío,2BcaVBIBzoYef2NdyTtRBr,2013-03-04,10,22,Dorian,260791,57,indie
+indie,Paper Gods (Deluxe Edition),5Mg8II19DRd8u88AJXt7zS,2015-09-11,15,24,Duran Duran,3517359,75,"new wave, synthpop"
+indie,Paper Gods,2Pvbc55bvFduWqHUUWR0oP,2015-09-11,12,29,Duran Duran,3517359,75,"new wave, synthpop"
+indie,A Diamond in the Mind,6qmPuUWbicNkG5pFftV81l,2012-07-02,14,27,Duran Duran,3517359,75,"new wave, synthpop"
+indie,All You Need Is Now,59Q3eHMD0st972JU17xYHa,2011-03-22,14,31,Duran Duran,3517359,75,"new wave, synthpop"
+indie,Remixes,3AXgCzdurgpNogdTzmtLQo,2015-02-17,12,39,Glass Animals,4541418,78,
+indie,ZABA (Deluxe),0dd6bX3CRdybDCgltyoItP,2014-06-06,15,48,Glass Animals,4541418,78,
+indie,ZABA,14IOe7ahxQPTwUYUQX3IFi,2014-06-03,11,62,Glass Animals,4541418,78,
+indie,Sadnecessary,1iCwsK0jUzBPQx7XEpumbz,2013-05-31,14,71,Milky Chance,2064502,74,
+indie,Lightning Bolt,01WEcEzoa9mfh8fIDhvV1M,2013-01-01,12,57,Pearl Jam,9824823,78,"grunge, rock, post-grunge"
+indie,Spotify Sessions,4VEuxNvtEzSIIdcbBFPhyR,2014-11-10,7,20,Vance Joy,3458231,78,folk pop
+indie,Dream Your Life Away,6rIbiUMmZJfqJRnXhVxFvg,2014-09-08,13,70,Vance Joy,3458231,78,folk pop
+indie,Dream Your Life Away (Deluxe Edition),2biVG6BYnVVSwLYd1OjbPT,2014-08-05,20,76,Vance Joy,3458231,78,folk pop
+indie,"Bon Iver, Bon Iver (10th Anniversary Edition)",6xfOCqmQvpvgR5aq6fpKMD,2011-06-22,15,44,Bon Iver,3918592,78,
+indie,"Bon Iver, Bon Iver",2LpfNj3vB5rOXfaawLcOBg,2011-06-21,10,66,Bon Iver,3918592,78,
+indie,She's So Unusual - Spotify Commentary,47jID5Vh9wlg2KXBC0O6lU,2014-04-01,8,6,Cyndi Lauper,3230807,74,
+indie,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),4pox3k0CGuwwAknR9GtcoX,2014-03-28,22,61,Cyndi Lauper,3230807,74,
+indie,Memphis Blues,7e8llQbStheFoOuhyvJGLo,2010-01-01,11,22,Cyndi Lauper,3230807,74,
+indie,"VS. (Other People’s Heartache, Pt. III)",1YXsPGQingGkJZLA8uuQNL,2014-12-01,9,41,Bastille,5642703,76,
+indie,All This Bad Blood,5G6oMu9zNW2acdV0lqzI3L,2013-01-01,25,67,Bastille,5642703,76,
+indie,Electric,3Qk4UEX3E3rGtjZ9zdcVRa,2013-07-15,10,18,Pet Shop Boys,2159513,71,"synthpop, new wave"
+indie,Elysium (2017 Remaster),1OCBWSajbQrwLY3EZal8zi,2012-09-10,12,16,Pet Shop Boys,2159513,71,"synthpop, new wave"
+indie,Elysium: Further Listening 2011 - 2012 (2017 Remaster),4nJUhzXumiK9JLYzoOCYIM,2012-09-05,25,33,Pet Shop Boys,2159513,71,"synthpop, new wave"
+indie,The Most Incredible Thing,7t881Szy1fTOJgQNycarWy,2011,21,11,Pet Shop Boys,2159513,71,"synthpop, new wave"
+indie,"Pandemonium (Live at the O2 Arena, London - 21 December 2009)",3ndAvT7Tca2KclpKe9BbbL,2010-02-12,17,32,Pet Shop Boys,2159513,71,"synthpop, new wave"
+indie,Mechanical Bull (Expanded Edition),0cRJKK0y1sfZEqWub4dK9v,2013-09-24,13,65,Kings of Leon,5724529,80,
+indie,Come Around Sundown (Expanded Edition),5xFZ4iElFbUFtOGX4lvdTM,2010-10-19,16,68,Kings of Leon,5724529,80,
+indie,The Lumineers (Deluxe Edition),6PPLBip6lQEHgVbTjqMI5k,2013-08-20,16,51,The Lumineers,5863669,80,"folk pop, indie folk"
+indie,The Lumineers,2MTEiVNgRgIvVIrJAqHNBu,2012-04-03,11,76,The Lumineers,5863669,80,"folk pop, indie folk"
+indie,Quédate (Track By Track),5zoLsoXxB9rfCYnSfRMbgM,2014-10-24,14,4,Funambulista,161065,53,singer-songwriter
+indie,Quédate,61hlsmpdWmozHjzEE5Xs8t,2014-10-21,14,32,Funambulista,161065,53,singer-songwriter
+indie,Funambulista,3Cccaf7tFHYMIusFDrRT02,2010,12,20,Funambulista,161065,53,singer-songwriter
+indie,De Pana y Rubí,4Au1uBJOkLcsLf9WLWVif9,2015-11-13,12,48,El Kanka,322576,57,singer-songwriter
+indie,El Día de Suerte de Juan Gómez,6GS9J7YC7IlGaTBdz86t7N,2015-07-07,12,45,El Kanka,322576,57,singer-songwriter
+indie,Lo Mal Que Estoy y Lo Poco Que Me Quejo,7auuEfoSwTUYponi3cKCuG,2013-04-22,11,51,El Kanka,322576,57,singer-songwriter
+indie,The Essential Van Morrison,7hKbCBnb2bi6bPZfviShZM,2015-08-28,38,54,Van Morrison,3562373,74,
+indie,Duets: Re-Working The Catalogue,5oXBM1hSxdDk2mggnIaFte,2015-03-16,16,38,Van Morrison,3562373,74,
+indie,Born to Sing: No Plan B,2Y1DQGs6KFmiOeTQE7pt58,2012-09-29,10,21,Van Morrison,3562373,74,
+indie,Spotify Sessions,22MrOvzmcn6WeE4v6Ua6dj,2014-09-16,6,41,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,Yes! (Deluxe Edition),1l62CqhREU19alAm7OCaKg,2014-07-11,19,35,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,YES!,2bqksLEQxw80lhxXp6Xtcz,2014-07-08,14,50,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,Love Is a Four Letter Word (Deluxe Edition),64SChsjQBiEe3aVTFYnW1b,2012-04-13,18,60,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,Love Is a Four Letter Word,7oD9oCCtFhg5RoLtMR5TKl,2012-04-13,13,63,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,Love Is a Four Letter Word,7FHrDVWNz3gRXDTOBCf9Jn,2012-04-13,12,4,Jason Mraz,7310241,75,"soft pop, acoustic pop"
+indie,Live in Berlin Soundtrack,7snShfFKLewVZTggBIsXJn,2014-11-17,21,47,Depeche Mode,7281880,76,"new wave, synthpop, darkwave"
+indie,Delta Machine,1kpZUS7tLWK0hMWNCKP9La,2013-03-25,17,46,Depeche Mode,7281880,76,"new wave, synthpop, darkwave"
+indie,Tour of The Universe: Barcelona 20/21:11:09 (Live),1mMiNH5paCWPg5RGo62jll,2010-11-05,21,39,Depeche Mode,7281880,76,"new wave, synthpop, darkwave"
+indie,From Here To Now To You (Commentary Version),00Me6BWP9P7j6m8x5cbcpV,2013-01-01,12,21,Jack Johnson,4030526,77,surf rock
+indie,From Here To Now To You,3da6Ihr5l6xjOCDs5sTXIu,2013-01-01,12,61,Jack Johnson,4030526,77,surf rock
+indie,To The Sea,0IsTL8lnrHuNvpMPawAFRs,2010-01-01,13,52,Jack Johnson,4030526,77,surf rock
+indie,Soft Universe,7cZXVnvCJcO1VNKnpBcoOW,2011-11-10,10,17,PNAU,258521,73,
+indie,MGMT,0a4MASgg8wxOyUeoOZzuhc,2013-09-16,10,36,MGMT,3535361,77,indie
+indie,Late Night Tales: Mgmt,3hL5hv0P0B0jK8T9XPadVR,2011-10-03,13,25,MGMT,3535361,77,indie
+indie,Congratulations,2mE48DnmnTsZvRyX42BH0O,2010-04-09,10,27,MGMT,3535361,77,indie
+indie,Catching Rays On Giant (Deluxe Version),2k8rY0UFsmW4xF3EmEXfvJ,2010-01-01,16,38,Alphaville,1052450,73,synthpop
+indie,Catching Rays On Giant,7k2kqjeA20M2Mvm6oKKrQ1,2010-01-01,12,21,Alphaville,1052450,73,synthpop
+indie,Amor Supremo,0Jo8yyj5aHXkj6rCJUVbT5,2015-11-06,13,59,Carla Morrison,4952221,74,latin indie
+indie,Déjenme Llorar (Deluxe Edition),3cBtFZ5mqOn3dzzRyjzxgj,2012-03-27,24,44,Carla Morrison,4952221,74,latin indie
+indie,Déjenme Llorar,6BZkhYCGp75O2R4oX25nve,2012-03-27,14,71,Carla Morrison,4952221,74,latin indie
+indie,Mientras Tú Dormías,2dXJG8zygelhXXvQuKn4Ye,2010-10-26,8,59,Carla Morrison,4952221,74,latin indie
+indie,Mon Laferte (Vol. 1),5sG9v1V0gjNbQQiXkYKWe0,2015-08-21,11,74,Mon Laferte,9929787,79,latin alternative
+indie,Tornasol,7tFRCDcq1MhhKXZJ2VZP6H,2013-01-07,14,48,Mon Laferte,9929787,79,latin alternative
+indie,Desechable,4h7l93gyyccuBoJ1QS27P5,2011-06-23,10,39,Mon Laferte,9929787,79,latin alternative
+indie,Cast In Steel,1qN7aCOMxF4dZzfMwP0zGM,2015-09-04,18,41,a-ha,2853017,75,"new wave, synthpop"
+indie,b-sides,7skmDXP36SNveM5XKFoLuK,2014-05-01,7,47,"Adrianne Lenker, Buck Meek",1377858,76,
+indie,a-sides,5rwqvk7OpTco8gcX8LarT1,2014-05-01,7,52,"Adrianne Lenker, Buck Meek",1377858,76,
+indie,Hours Were the Birds,3ZQoTj4ttmoO45QUE6StBW,2014-01-09,10,49,Adrianne Lenker,1377858,76,
+indie,Love Songs For Robots,4MdPpRGC3wjAI23bXGClnZ,2015-05-11,10,42,Patrick Watson,898596,72,
+indie,Adventures In Your Own Backyard,2c1WnJ7yAuaDZ8AoCBKu97,2012-04-16,13,44,Patrick Watson,898596,72,
+indie,Beach Music,0aABjw7BY2iRsK4ZdkwSjF,2015-10-09,13,51,Alex G,3440691,78,
+indie,DSU,7mPMUi6BsDtVUyLYzmXwSR,2014-09-11,15,62,Alex G,3440691,78,
+indie,Trick,2Vg8YkTkuG4Y9MD4hB4KNN,2012-11-05,16,68,Alex G,3440691,78,
+indie,Rules,7CEIedRZFPYuKt9W2wcliK,2012-01-15,13,60,Alex G,3440691,78,
+indie,Race,42bSpkr89bdrwMMNuEZlDJ,2010-01-01,13,68,Alex G,3440691,78,
+indie,Mi Pequeña Historia,3Z8ODAWZa7IjJkdk8EKgUz,2015-06-01,11,35,Andrés Suárez,148079,54,"singer-songwriter, trova, nueva trova"
+indie,Moraima,5Id7jjH2l9leN4TLNqtlyt,2013-04-16,14,35,Andrés Suárez,148079,54,"singer-songwriter, trova, nueva trova"
+indie,Cuando Vuelva La Marea,2sUVteim4okFqX3KP0scOG,2012-05-01,12,31,Andrés Suárez,148079,54,"singer-songwriter, trova, nueva trova"
+indie,Evil Friends,7G0u1L22YQbO9s2bLqZ6fZ,2013-05-29,13,41,Portugal. The Man,1513885,72,
+indie,In the Mountain in the Cloud,1OWNvsDzhEwT5cXLlo9iO7,2011-06-29,11,44,Portugal. The Man,1513885,72,
+indie,Live from SoHo,7FGTPJhE34KHnl58Mq6r0K,2010-05-04,10,13,Portugal. The Man,1513885,72,
+indie,American Ghetto,3GXyPZJCzsnP4apzEiVyXu,2010-03-02,11,29,Portugal. The Man,1513885,72,
+indie,Thank Your Lucky Stars,2LY64XcNbQ2bSjjsrbODlL,2015-10-16,9,38,Beach House,2748606,75,dream pop
+indie,Depression Cherry,4SkZTSXdPpzTbf6C0m1UKv,2015-08-28,9,64,Beach House,2748606,75,dream pop
+indie,Bloom,600BVck2XflTAsEo0KhIfm,2012-05-14,10,51,Beach House,2748606,75,dream pop
+indie,Teen Dream,7ejB3MHdDNcY3GzRsQRAHs,2010-01-25,10,56,Beach House,2748606,75,dream pop
+indie,Pete Townshend's Classic Quadrophenia,7JJPNK1I4DAm1oMWL8spjv,2015-06-05,18,16,"Pete Townshend, Alfie Boe, Billy Idol, Phil Daniels, Royal Philharmonic Orchestra, Robert Ziegler",391160,48,art rock
+indie,Kings & Queens Of The Underground,1WQHG6CYgc5fB9ByTLkskB,2014-10-21,11,37,Billy Idol,2403425,74,
+indie,Fallen Empires,29ZKbZ3dVnr1vlTasCtzYG,2011-01-01,14,51,Snow Patrol,3280545,72,
+indie,Wanted on Voyage (Expanded Edition),6mcMKGEgukjyiR5IKElQ2E,2014-06-30,16,71,George Ezra,4312972,73,
+indie,Tell Me I'm Pretty,0nW0w37lrQ87k7PLZvC4qJ,2015-12-18,10,67,Cage The Elephant,4262817,77,
+indie,Melophobia,5nJ9B1KiydXoYWAcyqlG76,2013-10-08,10,65,Cage The Elephant,4262817,77,
+indie,Live From The Vic In Chicago,15KUSccm6GCtiAyFeGLaTx,2012-01-17,19,26,Cage The Elephant,4262817,77,
+indie,Thank You Happy Birthday (Expanded Edition),6mSd0LnpzJRES3bFktagTJ,2011-01-01,15,26,Cage The Elephant,4262817,77,
+indie,Thank You Happy Birthday,2jVxhH1xg6EIc87rGM1Ogt,2011-01-01,12,42,Cage The Elephant,4262817,77,
+indie,FFS (Deluxe Edition),7g47iRACm89TOlfLhulrx2,2015-06-08,16,38,"FFS, Franz Ferdinand, Sparks",26370,35,art rock
+indie,Late Night Tales: Franz Ferdinand,71tXyeDDc0rhbhvae7fEsf,2014-09-15,12,23,Franz Ferdinand,2957017,72,indie rock
+indie,"Right Thoughts, Right Words, Right Action",19ZCNle4g6XwUpSn5RFZq6,2013-08-26,10,51,Franz Ferdinand,2957017,72,indie rock
+indie,Sierra y Canada,1xvMWnfblsX3awO46xpf8u,2014-03-24,13,32,Sidonie,198828,51,indie
+indie,El Fluido Garcia,0jzVvbOvw7m2jqKdf6Bo5B,2011-10-18,12,11,Sidonie,198828,51,indie
+indie,Jungle,2B1PHvqJTX9ELdUlENOJeQ,2014-07-14,12,58,Jungle,1728922,74,
+indie,La Idea Salvaje (Edición Especial Spotify),7vhHPfiayQt7BtMknpUMtB,2015-02-16,13,43,Carlos Sadness,352865,58,latin indie
+indie,Ciencias Celestes,1a94Wr423M6nfmOR3h88u5,2012-03-18,12,35,Carlos Sadness,352865,58,latin indie
+indie,Supermodel,22cFcAQkydpTzeSKQZEKv0,2014-03-14,11,54,Foster The People,4014941,74,
+indie,Torches,7Kmmw7Z5D2UD5MVwdm10sT,2011-05-23,10,75,Foster The People,4014941,74,
+indie,The Magic Whip,0nSzBICzQHea8grwfqa5Gb,2015-04-20,12,46,Blur,3873556,72,"britpop, madchester, alternative rock"
+indie,Parklive,7xxg6PunBVeuTliClh4H5p,2012-08-13,30,31,Blur,3873556,72,"britpop, madchester, alternative rock"
+indie,Fire Within (Deluxe),24f6ycLAjcI8rNYfV6WZvS,2013-09-16,16,43,Birdy,3739308,72,
+indie,Fire Within,1JCe9MAwb1aE01UoAwCnOM,2013-09-16,11,40,Birdy,3739308,72,
+indie,Fire Within,0r94AFhRLvpfXvha7vx2dK,2013-09-16,13,55,Birdy,3739308,72,
+indie,Live in London,55BQeeBdoCapsI5SZFA3IN,2012,8,32,Birdy,3739308,72,
+indie,Birdy (Deluxe Version),3sGzkurA1fvEFqh73sWCVA,2011-11-04,14,53,Birdy,3739308,72,
+indie,Lucky Numbers (Bonus Track Version),4YFDfqfBD5AaKPd7PDkjgG,2013-09-30,13,1,Dave Stewart,76032,71,
+indie,The Ringmaster General,6dAf3EAb7fmsrjYwHg7qB2,2012-09-04,11,11,Dave Stewart,76032,71,
+indie,The Blackbird Diaries,5RWyIpys2IzUCX0NHYpNx0,2011-09-23,13,18,Dave Stewart,76032,71,
+indie,The Temper Trap (Deluxe Edition),7qZ4R384t9mmSpqHZaFELK,2012-05-21,15,35,The Temper Trap,761037,73,
+indie,Conditions Remixed,3iosQptEeGHo6vLAKU8Dbw,2010-11-01,11,26,The Temper Trap,761037,73,
+indie,Tell 'Em I'm Gone,5oGGhaNyVb2J7lWPctx9MO,2014-11-24,10,23,Yusuf / Cat Stevens,2155189,72,"folk rock, folk, singer-songwriter"
+indie,Kick 25 (Deluxe Edition),2FsYewCNv3LNBs1w29Wldw,2012-01-01,25,26,INXS,3044732,72,
+indie,The Very Best,2UYQhIgxzONFqtAYenPaWs,2011-01-01,20,40,INXS,3044732,72,
+indie,Whispers II (Deluxe Version),4qH4gGn0zzCPS1b5NM7PS2,2015-04-20,16,24,Passenger,3743348,72,folk pop
+indie,Whispers II,1tuA98Wr7drhpoaMqPIO5V,2015-04-20,10,41,Passenger,3743348,72,folk pop
+indie,Whispers (Deluxe),3WvSr7uc2MOaNgWDxNxLqJ,2014-06-06,18,37,Passenger,3743348,72,folk pop
+indie,All the Little Lights (Deluxe Version),4betqQELpLxNJ6pshbCGfu,2013-08-26,20,60,Passenger,3743348,72,folk pop
+indie,Flight of the Crow,41Ywc4XSD3GChkeAfzhRIR,2010-09-24,11,44,Passenger,3743348,72,folk pop
+indie,Divers & Submarines,0r0gRUQnQ4MPfqAjHDCaAT,2010-06-30,9,28,Passenger,3743348,72,folk pop
+indie,Real Real Blondie,1foXyN4r1Q52Ld8Va7xPl5,2015-10-12,13,19,Blondie,1842663,72,
+indie,Ghosts of Download,3KsFi9OJLtGQP7WIBvTX82,2014-05-12,13,16,Blondie,1842663,72,
+indie,Panic of Girls,3taJK6ccQov0Z5FlKox65t,2011-05-30,11,19,Blondie,1842663,72,
+indie,Headroom,2KvYBT9dffNfJqqsLLHyAR,2015-06-30,10,43,Men I Trust,2290031,73,"bedroom pop, indie pop"
+indie,Men I Trust,2KNruTzom06IP2Af6pDLTN,2014-05-28,11,29,Men I Trust,2290031,73,"bedroom pop, indie pop"
+indie,"Hello, What's Your Name?",6VBN2WUxtbmOwwgyPIT83r,2015-12-04,15,27,The Kooks,2644260,70,"indie, indie rock"
+indie,Listen (Deluxe),2LFvpZ5QOj7FHu4IEnkfVX,2014-09-08,15,27,The Kooks,2644260,70,"indie, indie rock"
+indie,Listen (Track By Track),0M2Jg2jUSvDOyVXOlKX7bW,2014-09-02,15,8,The Kooks,2644260,70,"indie, indie rock"
+indie,Listen,6kqOHnshP4RMTUWKrhm6Sy,2014-01-01,11,56,The Kooks,2644260,70,"indie, indie rock"
+indie,Junk Of The Heart,1VGaygrbOjkte4Ca81nEeQ,2011-01-01,14,36,The Kooks,2644260,70,"indie, indie rock"
+indie,Beneath The Skin (Deluxe),1m3D8gkm3nOvIXNR1SvDFA,2015-06-05,15,45,Of Monsters and Men,3605947,72,folk pop
+indie,Beneath The Skin,2mD97VgxTRfwB8F5tvkwrL,2015-06-05,11,58,Of Monsters and Men,3605947,72,folk pop
+indie,LIVE FROM VATNAGARÐAR,2uPzmLNiwogDAiyKfl7HX5,2013-01-01,7,34,Of Monsters and Men,3605947,72,folk pop
+indie,My Head Is An Animal,4p9dVvZDaZliSjTCbFRhJy,2012-01-01,12,72,Of Monsters and Men,3605947,72,folk pop
+indie,My Love Is Cool,2L82g2rqAlNBcADFzayJBU,2015-06-22,12,55,Wolf Alice,836465,71,indie
+indie,Can't Forget: A Souvenir of the Grand Tour,7yUDBh0Q2IjPctdv5pFP6b,2015-05-08,10,23,Leonard Cohen,3674400,66,singer-songwriter
+indie,Live In Dublin,4CKs4nbhva7asiYqsZpMOi,2014-11-28,30,39,Leonard Cohen,3674400,66,singer-songwriter
+indie,Popular Problems,1WkGbKUjhOMru7uYl25jJb,2014-09-16,9,46,Leonard Cohen,3674400,66,singer-songwriter
+indie,Old Ideas,0waLDJlCfXkXIwFGdBZ6UK,2012-03-28,10,39,Leonard Cohen,3674400,66,singer-songwriter
+indie,Songs From The Road,2gyoqhcdYUTxcgYxZQbFOD,2010-09-10,12,30,Leonard Cohen,3674400,66,singer-songwriter
+indie,Apuntes Sobre Mi Paso por el Invierno,1bRyXcN5qtq5aGf0GBss1b,2014-05-07,14,40,Marwán,140363,51,"singer-songwriter, trova, nueva trova"
+indie,Las Cosas Que No Pude Responder,1NBwrHjFw3IZcQ5UjoMajF,2011-10-22,13,32,Marwán,140363,51,"singer-songwriter, trova, nueva trova"
+indie,The Weatherman,3IcfYXw7lTtLfG5XWLlSZi,2013-07-09,13,66,Gregory Alan Isakov,1126402,74,"indie folk, folk, folk pop"
+indie,Beacon (Deluxe Version),0x87cP5oexzpBwI3iAWBdq,2012-09-03,26,27,Two Door Cinema Club,2539231,70,"indie, indie rock"
+indie,Beacon,1I1ZFdY9LI6kxPANmduRcN,2012-09-03,12,52,Two Door Cinema Club,2539231,70,"indie, indie rock"
+indie,Tourist History (Deluxe Edition),6XFQE0ZYhEwk2hgh0jHgAV,2010-10-18,21,42,Two Door Cinema Club,2539231,70,"indie, indie rock"
+indie,Buds,03WcbJcmiYID0oOG8U8uvy,2015-05-10,9,52,Surf Curse,1704157,72,indie
+indie,Living Room (Spotify Track by Track Commentary),4qnvwXfYRAcq2VVE1xW3x9,2015-01-31,13,17,AJR,3643031,75,
+indie,Living Room,6FaXVdC5z5nDEQbLX4Mucd,2013,13,51,AJR,3643031,75,
+indie,Run and Tell,16q8ryMZ3yPfFun0B0qrhM,2013-10-30,11,43,Faye Webster,2092166,75,
+indie,Seasons of Your Day,38Eb5LBD8yO5KbMYVUQQZp,2013-09-24,10,49,Mazzy Star,1767727,74,"dream pop, shoegaze, slowcore"
+indie,No todo lo puedes dar (Deluxe),6E3hEDaNqOpPXrYRG7nQsz,2014-11-27,21,22,Ximena Sariñana,1603906,67,"latin indie, mexican indie, latin alternative"
+indie,No todo lo puedes dar (Track by Track),7bTas7oCv100GM0zw7snuL,2014-11-04,11,5,Ximena Sariñana,1603906,67,"latin indie, mexican indie, latin alternative"
+indie,No todo lo puedes dar,5B3qry3tE4rHhgI4pRc7Ld,2014-11-04,13,39,Ximena Sariñana,1603906,67,"latin indie, mexican indie, latin alternative"
+indie,Ximena Sariñana,3iwus4OXlmCDvcNAesl1wG,2010-11-02,12,14,Ximena Sariñana,1603906,67,"latin indie, mexican indie, latin alternative"
+indie,Live In New York City,47mIAo6W7XHF4Aw7TOhAzV,2012-09-18,20,29,Paul Simon,2531436,71,singer-songwriter
+indie,So Beautiful or So What,71hpzCnp9lYUZgV4rUtdvT,2011-04-08,10,30,Paul Simon,2531436,71,singer-songwriter
+indie,This Is All Yours (Track by Track Commentary),58OhkST65A4dbVqrfdr9vr,2015-06-08,13,8,alt-J,3419050,71,"indie, indie rock"
+pop,Sirope Vivo,6ceGjzSdQJ6sVNGIea8fhV,2015-11-27,24,24,Alejandro Sanz,8287408,82,latin pop
+pop,Sirope,5SVQiBI8Kj03jWENZXh8rt,2015-05-04,13,36,Alejandro Sanz,8287408,82,latin pop
+pop,La Música No Se Toca En Vivo,16JwD51VXLXs5wAjnoUHPs,2013-01-01,14,45,Alejandro Sanz,8287408,82,latin pop
+pop,La Música No Se Toca (Deluxe),5O5LrflUeCNwNAsCQ5o0jk,2012-01-01,17,60,Alejandro Sanz,8287408,82,latin pop
+pop,La Música No Se Toca,2YJqPn5l4puQR1oOCwEThR,2012-01-01,14,33,Alejandro Sanz,8287408,82,latin pop
+pop,Esencia (En Vivo En El Teatro Real),1gH8uDzL4PzRbNousypUSY,2015-11-06,15,28,El Barrio,1347833,64,"flamenco, flamenco pop"
+pop,Hijo Del Levante (Edición Deluxe),03RUafJJzIxo4wr5HmGTjR,2014-10-21,18,51,El Barrio,1347833,64,"flamenco, flamenco pop"
+pop,Hasta el Fin de los Tiempos,2bv8ENjqMb4sdIhkHFsJQ3,2012-12-10,52,22,El Barrio,1347833,64,"flamenco, flamenco pop"
+pop,Espejos,0t2YEl6ns9IK15Tz83MmQE,2011,14,45,El Barrio,1347833,64,"flamenco, flamenco pop"
+pop,Terral,1cWvezm4YsxlvvOSRUXLmS,2014-11-10,16,63,Pablo Alborán,5512420,76,latin pop
+pop,Tanto,451ZWaGuvUKBVI3E77b7yM,2012-11-06,11,36,Pablo Alborán,5512420,76,latin pop
+pop,Tanto (Nueva edición),6mRiYnPpz8qdoY91s1c4H4,2012,12,45,Pablo Alborán,5512420,76,latin pop
+pop,Tanto (Edición Premium),7kA3hvV7UjgnA5uiUBxwlN,2012,17,67,Pablo Alborán,5512420,76,latin pop
+pop,En Acústico (En directo),1BZTSNDLBWs35BNWjkfrDg,2011-11-15,17,36,Pablo Alborán,5512420,76,latin pop
+pop,Pablo Alboran (Deluxe),1PfEXmG8ioEwsj7qDaCQXc,2011-02-01,15,64,Pablo Alborán,5512420,76,latin pop
+pop,Pablo Alboran,5wOgpIVH6cxScy3FpZE7Wr,2011-02-01,13,32,Pablo Alborán,5512420,76,latin pop
+pop,Primera Fila,7pC1BMjl8x5Yr60xX2tyZh,2013-10-28,15,58,La Oreja de Van Gogh,4548328,75,latin pop
+pop,Cometas por el Cielo en Directo Desde América,21dyIYJNw2vVugY9L2U0go,2012-09-18,15,30,La Oreja de Van Gogh,4548328,75,latin pop
+pop,Cometas Por El Cielo,6OhQzgLu3gwMxfjHxhOhnO,2011-09-13,12,49,La Oreja de Van Gogh,4548328,75,latin pop
+pop,Purpose (Deluxe),6Fr2rQkZ383FcMqFyT7yPr,2015-11-13,19,82,Justin Bieber,84324678,96,
+pop,Journals,1rknZw4cyL9NInAqSwc8AA,2014-05-13,16,78,Justin Bieber,84324678,96,
+pop,Believe Acoustic,4yz9rO7Q1UC2rK5eLOxmS7,2013-01-01,11,54,Justin Bieber,84324678,96,
+pop,Believe (Deluxe Edition),70f70xLCpH7wHaVvB2oZT9,2012-06-15,17,72,Justin Bieber,84324678,96,
+pop,Believe,5cxMa6oLINJzmZ8lF7wWQN,2012-01-01,13,76,Justin Bieber,84324678,96,
+pop,Under The Mistletoe (Deluxe Edition),63MKT9hwmiMFFdFp5SdB1p,2011-01-01,15,57,Justin Bieber,84324678,96,
+pop,Under The Mistletoe,3cr4Xgz8nnfp7iYbVqwzzH,2011-01-01,11,42,Justin Bieber,84324678,96,
+pop,Never Say Never - The Remixes,0wZJCeyfJ0LVrrtH4CwQYw,2011-01-01,7,66,Justin Bieber,84324678,96,
+pop,My Worlds (International Version),0ALfQaGYSvcRNV5OLbixA3,2010-01-01,18,55,Justin Bieber,84324678,96,
+pop,My World 2.0,3BmcYMh0KYsimWL6p2gPa9,2010-01-01,10,76,Justin Bieber,84324678,96,
+pop,Shudhu Tomari Jonyo,2GICr5p81pM3Z0T9BJFb1o,2015-09-13,8,49,Arijit Singh,158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Celebrating World Music Day With Indipop Chart Toppers,35MkN8qsxx5KEELxxISsak,2015-06-18,7,2,"Arijit Singh, Mika Singh, Shreya Ghoshal, Sonu Nigam",158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Dastak - A Bouquet Of Ghazals,7Mo501T1gG3ETYKFCxR5YE,2015-01-01,10,3,"Arijit Singh, Sonu Nigam, Jagjit Singh, Javed Ali",158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Ghazals By Trending Voices,2eKYIKV83kh2m2Xbdm95F4,2014-06-17,10,8,"Arijit Singh, Sonu Nigam, Javed Ali",158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Golpo Holeo Sotti,2in4xZhjkZ8Kt2cifZ9z1o,2014-06-10,7,43,Arijit Singh,158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Chander Pahar,3vDKxt5LedHOk5FDJHgJmA,2013-12-26,13,20,Arijit Singh,158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Bojhena Se Bojhena,1pbdCW1f3bVwqRd2toq4kC,2012-12-12,6,46,Arijit Singh,158445765,93,"hindi pop, bollywood, desi, bangla pop"
+pop,Eyes Wide Open,55huyEjfSVsk9nnmmKp5df,2015-04-10,12,55,Sabrina Carpenter,25386173,96,pop
+pop,Pvreza,6QlpdZCVyZlvQIsn1nHHZd,2015-09-20,13,41,Maka,859810,65,"flamenco, flamenco urbano, flamenco pop"
+pop,Makanudo,5pG33MfpueAPg3N9j6k55e,2015-06-01,15,41,Maka,859810,65,"flamenco, flamenco urbano, flamenco pop"
+pop,Pna,5YSk1O7T0VJCCR1gmj8eln,2014-01-05,14,15,Maka,859810,65,"flamenco, flamenco urbano, flamenco pop"
+pop,Bailar El Viento,62lZaizcM3SNQqs6rZG8kS,2015-10-30,13,57,Manuel Carrasco,2396189,68,"flamenco, flamenco pop"
+pop,Confieso Que He Sentido,38GUihfjQaBJf3FdYvr0zU,2013-01-01,23,50,Manuel Carrasco,2396189,68,"flamenco, flamenco pop"
+pop,Habla II,752LYLQEBrR3RP7O1iG8DA,2012-01-01,20,43,Manuel Carrasco,2396189,68,"flamenco, flamenco pop"
+pop,Habla,3ujY7tFoJofoWd8U1PU4BI,2012,12,28,Manuel Carrasco,2396189,68,"flamenco, flamenco pop"
+pop,Tú Y Yo En Vivo,69fN4Vsb6SD9Bz0XOLBmvV,2015-12-18,17,24,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Tú Y Yo (Gold Edition),15iKGaOduViHAVu6JOcgPs,2014-12-09,21,22,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Tú Y Yo (Tour Edition),3CXSCl17xmID9oUtdrSxN3,2014-01-01,19,39,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Tú Y Yo,3uJhnSpV17jDF2JXWnUhzn,2014-01-01,13,23,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Live At The Royal Albert Hall,4gUsJN2YKVWz5RRWAIOE40,2013,17,30,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,David Bisbal 30 Canciones De Oro,1NyuZbHnOtKYLzTHZYy7gX,2012-01-01,30,29,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Una Noche En El Teatro Real (Spotify),48yHU1yUFgzzE9myQZLz1Q,2011-01-01,26,17,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Una Noche En El Teatro Real,5rCmxR5GSwqh6P4UWBAQho,2011-01-01,25,36,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Sin Mirar Atrás (Sin Mirar Atrás Tour),3G5a3YahvUN4jbFrg0PBRE,2010-01-01,36,35,David Bisbal,4778879,72,"latin pop, villancicos"
+pop,Smoke + Mirrors (Deluxe),0Ikw6ho559687KCPbSjr0K,2015-10-23,22,59,Imagine Dragons,58070654,89,
+pop,Night Visions (Deluxe),1zcNZa89FXNruaesVKiVeu,2012-09-04,20,55,Imagine Dragons,58070654,89,
+pop,Night Visions,6nxDQi0FeEwccEPJeNySoS,2012-09-04,14,78,Imagine Dragons,58070654,89,
+pop,Honeymoon,2DpEBrjCur1ythIZ10gJWw,2015-09-18,14,77,Lana Del Rey,50585240,92,
+pop,Ultraviolence (Deluxe),1ORxRsK3MrSLvh7VQTF01F,2014-01-01,14,82,Lana Del Rey,50585240,92,
+pop,Paradise,3Sn5DDHo0l6lxSYVo8CqdK,2012-11-09,8,46,Lana Del Rey,50585240,92,
+pop,Born To Die,4vXt6IpMcSnqonljffWlMI,2012-01-30,12,56,Lana Del Rey,50585240,92,
+pop,Born To Die – Paradise Edition (Special Version),0Dt3FbpMQwjoT5KNAw0IXR,2012-01-01,24,74,Lana Del Rey,50585240,92,
+pop,Born To Die - The Paradise Edition,5VoeRuTrGhTbKelUfwymwu,2012-01-01,23,81,Lana Del Rey,50585240,92,
+pop,Born To Die (Deluxe Version),4F5dVhgk569Du5cLfal3t5,2012-01-01,15,58,Lana Del Rey,50585240,92,
+pop,Cheek To Cheek (Deluxe),2VX9rp6NAC19TQN4IgkmYu,2014-09-19,15,48,"Tony Bennett, Lady Gaga",1000323,62,"vocal jazz, christmas, big band, adult standards, jazz"
+pop,ARTPOP,2eRJUtI7nXrQ5uYQ7tzTo9,2013-11-11,14,71,Lady Gaga,41158345,92,"art pop, pop"
+pop,Born This Way (International Special Edition Version),6LY3AerY6KNGOPsNPL63Kk,2011-05-23,23,77,Lady Gaga,41158345,92,"art pop, pop"
+pop,V (Deluxe),4KXLjIEas8MTwwX3xpmAdC,2015-05-18,16,56,Maroon 5,45461795,89,pop
+pop,V,2Auw0pTT6EcQdvHNimhLQI,2014-09-02,12,78,Maroon 5,45461795,89,pop
+pop,Overexposed Track By Track,6ijGiBcBfUwkoyHn5VUHU2,2012-01-01,33,77,Maroon 5,45461795,89,pop
+pop,Overexposed (Deluxe),6XYL7jVgFaxD1X7F8IMO2b,2012-01-01,15,47,Maroon 5,45461795,89,pop
+pop,Overexposed,3r3flRqc5pQozLGZ3GyqTe,2012-01-01,12,41,Maroon 5,45461795,89,pop
+pop,Hands All Over (Revised International Standard version),1snrPQMoTrBsKl73wzSxbn,2010,14,70,Maroon 5,45461795,89,pop
+pop,Hands All Over (Revised International Deluxe),3gjJTUMI9q6ReSe0z7gyjp,2010,19,48,Maroon 5,45461795,89,pop
+pop,BEYONCÉ [Platinum Edition],2UJwKSBUz6rtW4QLK74kQu,2014-11-24,20,75,Beyoncé,40942454,89,
+pop,4,6sUoihv7EBflLLP4VriHUe,2011,18,54,Beyoncé,40942454,89,
+pop,I Am...World Tour,5O7PYNgE3VLWrvB80fIaDZ,2010-11-26,25,50,Beyoncé,40942454,89,
+pop,Unapologetic (Deluxe),5pLlGJrxuQO3jMoQe1XxZY,2012-12-11,17,74,Rihanna,68134938,93,
+pop,Unapologetic,4XBfFj0WYyh5mBtU61EdyY,2012-12-11,14,52,Rihanna,68134938,93,
+pop,Talk That Talk (Deluxe),3sW7wD2qdMjs7KncaOoIJ5,2012-07-18,14,57,Rihanna,68134938,93,
+pop,Talk That Talk,1Kw1bVd07oRqcjrcjQKC8T,2011-11-19,11,73,Rihanna,68134938,93,
+pop,Rated R: Remixed,2wi0v7jPzYBCd99GggLtN8,2010-05-08,10,26,Rihanna,68134938,93,
+pop,Loud,5QG3tjE5L9F6O2vCAPph38,2010-01-01,13,79,Rihanna,68134938,93,
+pop,My Everything (Deluxe),6EVYTRG1drKdO8OnIQBeEj,2014-08-22,15,81,Ariana Grande,106713135,94,pop
+pop,Yours Truly,6czdbbMtGbAkZ6ud2OMTcg,2013-01-01,12,69,Ariana Grande,106713135,94,pop
+pop,Dale,0tKKoGCz9CaZ3x1hDD6Ss2,2015-06-30,12,41,Pitbull,11813082,88,
+pop,Globalization,4EUf4YyNjuXypWY6W5wEDm,2014-11-24,11,77,Pitbull,11813082,88,
+pop,Global Warming,4aawyAB9vmqN3uQ7FjRGTy,2012-11-16,18,53,Pitbull,11813082,88,
+pop,Global Warming: Meltdown (Deluxe Version),2F7tejLHzTqFq2XLol9ZGy,2012,17,77,Pitbull,11813082,88,
+pop,Planet Pit (Deluxe Version),4rG0MhkU6UojACJxkMHIXB,2011-06-17,16,80,Pitbull,11813082,88,
+pop,Armando (Deluxe),1q23hvi1qvoADt2fh7FO7P,2010-11-02,14,22,Pitbull,11813082,88,
+pop,I Am Armando - Armando Reloaded,0kv3Rm7PODqJBQaVJiezuB,2010,14,54,Pitbull,11813082,88,
+pop,The Most Beautiful Moment in Life Pt.2,2ds8iT4wkaN1Q1gZe1qcOD,2015-11-30,9,68,BTS,80645885,89,k-pop
+pop,The Most Beautiful Moment in Life Pt.1,0mEeCuKJQ8Xh9tQ5dMm89X,2015-04-29,9,67,BTS,80645885,89,k-pop
+pop,Wake Up (Standard Edition),2bXp5bEM5sgZdIznTesQZb,2014-12-24,13,51,BTS,80645885,89,k-pop
+pop,Dark & Wild,35voVqYGkotyJ945O9egDY,2014-08-20,14,66,BTS,80645885,89,k-pop
+pop,Skool Luv Affair (Special Addition),0pX41mddl0CZXxpxkQ7347,2014-05-14,12,54,BTS,80645885,89,k-pop
+pop,Skool Luv Affair,5r35iS0uSSoQBKzQj0IeI3,2014-02-12,10,67,BTS,80645885,89,k-pop
+pop,"O!RUL8,2?",6rWmdSJIaGTVtdMJQ35Lvf,2013-09-11,10,62,BTS,80645885,89,k-pop
+pop,2 Cool 4 Skool,6egaEe9JaULuUCkihSnYlH,2013-06-12,7,64,BTS,80645885,89,k-pop
+pop,1989 (Deluxe),1yGbNOtRIgdIiGHOEBaZWf,2014-01-01,19,80,Taylor Swift,142909222,100,
+pop,1989,5fy0X0JmZRZnVa2UEicIOl,2014-01-01,13,70,Taylor Swift,142909222,100,
+pop,Red (Deluxe Edition),1KVKqWeRuXsJDLTW0VuD29,2012-10-22,22,64,Taylor Swift,142909222,100,
+pop,Red,1EoDsNmgTLtmwe1BDAVxV5,2012-10-22,16,69,Taylor Swift,142909222,100,
+pop,Speak Now World Tour Live,6fyR4wBPwLHKcRtxgd4sGh,2010-10-25,16,51,Taylor Swift,142909222,100,
+pop,Speak Now,6Ar2o9KCqcyYF9J0aQP3au,2010-10-25,14,66,Taylor Swift,142909222,100,
+pop,Speak Now (Deluxe Package),6S6JQWzUrJVcJLK4fi74Fw,2010-01-01,22,69,Taylor Swift,142909222,100,
+pop,A Head Full of Dreams,3cfAM8b8KqJRoIzt3zLKqw,2015-12-04,11,79,Coldplay,60108739,92,
+pop,Ghost Stories Live 2014,1hNS0RsxPTFjmKXCgmjSLS,2014-11-21,9,47,Coldplay,60108739,92,
+pop,Ghost Stories,2G4AUqfwxcV1UdQjm2ouYr,2014-05-16,9,77,Coldplay,60108739,92,
+pop,Live 2012,2OkEsqGTfu8PWRrNHzfr0m,2012-11-16,15,52,Coldplay,60108739,92,
+pop,Mylo Xyloto,2R7iJz5uaHjLEVnMkloO18,2011-10-24,14,76,Coldplay,60108739,92,
+pop,x (Wembley Edition),0MeOIA0wwSa6nW79jy8QcZ,2015-11-13,23,56,Ed Sheeran,122040746,92,soft pop
+pop,x (Deluxe Edition),1xn54DMo2qIqBuMqHtUsFd,2014-06-21,16,80,Ed Sheeran,122040746,92,soft pop
+pop,5,2hyDesSAYNefikDJXlqhPE,2014-06-20,32,48,Ed Sheeran,122040746,92,soft pop
+pop,Loose Change,3QbPtoOWiJqZurXXxJwaOD,2011-12-09,8,41,Ed Sheeran,122040746,92,soft pop
+pop,Live at the Bedford,4JUtnlZKdLr01xEIymhm0G,2011-12-09,6,30,Ed Sheeran,122040746,92,soft pop
+pop,No.5 Collaborations Project,6DpIyaMgt5p9HlGd1c0LDM,2011-09-09,8,38,Ed Sheeran,122040746,92,soft pop
+pop,+,02pi98kE0nra0yBqCStzbC,2011-09-09,16,71,Ed Sheeran,122040746,92,soft pop
+pop,Shakira. (Expanded Edition),2gOSZzsO8EZJvtdmVOVtJE,2014-03-21,17,47,Shakira,39281439,89,latin pop
+pop,Shakira. (Expanded Edition) [Spanish Version],5meb7aKE722LA66ssBhvfM,2014-03-13,15,69,Shakira,39281439,89,latin pop
+pop,Live From Paris,0qE6Dd97eQiywwpbrhb5fX,2011-12-05,19,48,Shakira,39281439,89,latin pop
+pop,Sale el Sol,3gR578qnw47M30LVBTjrlW,2010-10-19,16,72,Shakira,39281439,89,latin pop
+pop,Unorthodox Jukebox,58ufpQsJ1DS5kq4hhzQDiI,2012-12-07,10,83,Bruno Mars,74508051,93,
+pop,Doo-Wops & Hooligans,6J84szYCnMfzEcvIcfWMFL,2010-05-11,12,80,Bruno Mars,74508051,93,
+pop,Listen Again,7bpWEp24oHgUs08ImjakfU,2015-11-27,46,53,David Guetta,27060575,91,"edm, dance"
+pop,Listen,77UW17CZFyCaRLHdHeofZu,2014-11-10,18,71,David Guetta,27060575,91,"edm, dance"
+pop,Listen (Track by Track),4cm27QX0Xqgflgtj5ns470,2014-10-05,15,12,David Guetta,27060575,91,"edm, dance"
+pop,Nothing but the Beat (Ultimate Edition),4bTjdxhRRUiWfwj200f9Kl,2012-12-07,29,78,David Guetta,27060575,91,"edm, dance"
+pop,Nothing but the Beat (Bonus Commentary),5VCRvTmcCP2XIC7AtcttFx,2011-08-30,22,17,David Guetta,27060575,91,"edm, dance"
+pop,One More Love,7fHeCs5cgtXYqxBPG1iK1n,2010-11-22,27,77,David Guetta,27060575,91,"edm, dance"
+pop,Demon Days Live at the Manchester Opera House,0J3u0IeHzuymSz7v934vrd,2011-11-25,17,39,Gorillaz,13986608,85,
+pop,Plastic Beach (Deluxe),4T95uimM0PQNgAkcyLTym0,2010-03-03,18,43,Gorillaz,13986608,85,
+pop,Plastic Beach,2dIGnmEIy1WZIcZCFSj6i8,2010-03-03,16,77,Gorillaz,13986608,85,
+pop,The Fall,5jJGGsAztgUEXUHHZ2zrah,2010,15,50,Gorillaz,13986608,85,
+pop,Revival (Deluxe),3Kbuu2tHsIbplFUkB7a5oE,2015-10-09,16,69,Selena Gomez,53063091,84,
+pop,Stars Dance (Bonus Track Version),3cGKAHAUhAaTTezK4GbBhQ,2013-01-01,13,63,Selena Gomez,53063091,84,
+pop,In The Lonely Hour (Drowning Shadows Edition),0f8RtEC5UUqMX2cveYlylg,2015-11-06,23,63,Sam Smith,26095567,84,soft pop
+pop,In The Lonely Hour,08jWgM4vSkTose4blKBWov,2014-05-26,10,78,Sam Smith,26095567,84,soft pop
+pop,Sam Smith - Live From The Roundhouse,5QVtA5nAI18IVW6NenERTO,2014-01-01,15,35,Sam Smith,26095567,84,soft pop
+pop,México,7ejgXtkpf1uVrvAagx8xws,2015-03-02,15,42,Julio Iglesias,3530543,74,bolero
+pop,Dual,1kF9wxTUSexqZnufTN9wiX,2014-10-20,15,49,India Martinez,1055809,64,"flamenco, flamenco pop"
+pop,Camino de la Buena Suerte,6o75MGtcGC0X2Zi7Lue0Z8,2013-10-07,14,36,India Martinez,1055809,64,"flamenco, flamenco pop"
+pop,Otras Verdades,419gQQEc4pkfy8Pu6yKuiB,2012-10-23,12,48,India Martinez,1055809,64,"flamenco, flamenco pop"
+pop,Trece Verdades,4V9sLAxiOkiXdB08xI11eI,2011-02-08,14,45,India Martinez,1055809,64,"flamenco, flamenco pop"
+pop,Azulejos de lunares,2cczgAr9x1tOHBLlGDYyWE,2010-12-14,12,15,India Martinez,1055809,64,"flamenco, flamenco pop"
+pop,En Todo Estaré (Deluxe Edition),0P0d0y1LQ5VGrp58TQ0oM2,2014-08-25,14,65,Chayanne,9152031,78,latin pop
+pop,A Solas Con Chayanne,1k3BMWrLOQaNlFX2H6FWPp,2012-02-07,14,37,Chayanne,9152031,78,latin pop
+pop,No Hay Imposibles,2Z1OKCVyqJ1lMHTU612E07,2010-02-23,11,58,Chayanne,9152031,78,latin pop
+pop,Britney Jean (Deluxe Version),5rlB2HPoNHg2m1wmmh0TRv,2013-11-30,14,59,Britney Spears,17464169,84,pop
+pop,Femme Fatale (Deluxe Version),0oFBaXLFsUVa2gEmJf4FcJ,2011-03-28,16,69,Britney Spears,17464169,84,pop
+pop,Native,42UJjk8i8L0De7lQtu7sqi,2014-01-01,19,66,OneRepublic,18558008,85,soft pop
+pop,Directo,7bFm2hWgVI3djWqJGXvvjq,2015-10-23,28,45,Vanesa Martín,1218895,66,"flamenco pop, flamenco"
+pop,Crónica de un baile,53qc9atwmL5OINLg7ERTYV,2014-09-02,12,46,Vanesa Martín,1218895,66,"flamenco pop, flamenco"
+pop,"Ven, siéntate y me lo cuentas...",2ZFPBETjbuDhDxHVvdnoXf,2012-10-16,14,33,Vanesa Martín,1218895,66,"flamenco pop, flamenco"
+pop,Cuestion de piel,3yNf6VSuJJU9jPn1J2Kcrr,2012-02-28,15,42,Vanesa Martín,1218895,66,"flamenco pop, flamenco"
+pop,Made In The A.M. (Deluxe Edition),1gMxiQQSg5zeu4htBosASY,2015-11-13,17,78,One Direction,40159958,87,
+pop,FOUR (Deluxe),4gCNyS7pidfK3rKWhB3JOY,2014-11-17,16,81,One Direction,40159958,87,
+pop,Midnight Memories (Deluxe),7p1fX8aUySrBdx4WSYspOu,2013-11-25,18,80,One Direction,40159958,87,
+pop,Take Me Home (Expanded Edition),2sWX3HYnZjPZ9MrH6MFsBt,2012-11-12,20,75,One Direction,40159958,87,
+pop,Up All Night,6cunQQ7YZisYOoiFu2ywIq,2012-05-25,18,77,One Direction,40159958,87,
+pop,KonKrete Jungle,7BuPO7yqJYGScpH2Qq6ZSu,2014-02-04,12,33,Akon,5875112,85,
+pop,Koncrete Vol. 1,3ZpfQDwafNdaEUnbWVHIlM,2013-12-17,10,32,Akon,5875112,85,
+pop,Konvict Allstars,5OxggY6YGvJiYWskRN5T7W,2013-12-16,12,21,Akon,5875112,85,
+pop,Luis Miguel (Edición De Lujo),3MpbAt21ozNGRmmLCmP2ed,2011-01-17,14,51,"Luis Miguel, Adrián Pieragostino",20148155,86,"mariachi, bolero, latin pop, villancicos"
+pop,Handwritten (Revisited),11fLgnq2LE8p5hzo8urweI,2015-11-20,16,53,Shawn Mendes,45510977,85,
+pop,Handwritten (Deluxe),5Jov5724Nz13A302HM2eKG,2015-04-14,16,64,Shawn Mendes,45510977,85,
+pop,Handwritten,6sUOosXuYt0oUeczJRbedZ,2015-04-14,13,76,Shawn Mendes,45510977,85,
+pop,SUCKER,2fGpw56D35My0c82eNfKJF,2015-02-09,15,55,Charli xcx,6098145,86,"hyperpop, art pop"
+pop,True Romance (Deluxe),63az8CIMtCPKUSJxoaIiMk,2013-04-01,25,35,Charli xcx,6098145,86,"hyperpop, art pop"
+pop,True Romance,5t7Bn5XfE7yj2rqydVq0Ue,2013-04-01,13,46,Charli xcx,6098145,86,"hyperpop, art pop"
+pop,The Pinkprint (Deluxe Edition),5qs8T6ZHSrnllnOuUk6muC,2014-12-15,23,56,Nicki Minaj,34213131,88,
+pop,The Pinkprint (International Deluxe Explicit),40XGTQ7FN6Y3dZXJhKBe96,2014-12-12,21,66,Nicki Minaj,34213131,88,
+pop,The Pinkprint,1IOHcoY4gPRECxpIhVGmuq,2014-12-12,16,63,Nicki Minaj,34213131,88,
+pop,Pink Friday ... Roman Reloaded (Deluxe Edition),2D2rriWruRrRFq2AAholPp,2012-04-03,22,45,Nicki Minaj,34213131,88,
+pop,Pink Friday: Roman Reloaded The Re-Up (Explicit Version),22F5ZYY1sxoJjk6HzZfmC1,2012-01-01,27,69,Nicki Minaj,34213131,88,
+pop,Pink Friday ... Roman Reloaded (Deluxe),6fABwONLawdFjkDpLx41j8,2012-01-01,21,65,Nicki Minaj,34213131,88,
+pop,Pink Friday (Deluxe Edition),4cIAp0fnyPfICPqELp7LSH,2010-11-22,18,45,Nicki Minaj,34213131,88,
+pop,Pink Friday (Complete Edition),7aADdYLiK1z7GlMFr0UIZw,2010-11-22,21,68,Nicki Minaj,34213131,88,
+pop,Pink Friday,3LJhoYn4nnHmvPRO3ppbsl,2010-01-01,13,66,Nicki Minaj,34213131,88,
+pop,PRISM (Deluxe),5MQBzs5YlZlE28mD9yUItn,2013-10-18,16,69,Katy Perry,38014131,87,pop
+pop,PRISM,3jB9yFDwRe3KhtGnHXJntk,2013-01-01,13,76,Katy Perry,38014131,87,pop
+pop,Teenage Dream: The Complete Confection,5BvgP623rtvlc0HDcpzquz,2012-03-12,19,77,Katy Perry,38014131,87,pop
+pop,Teenage Dream,06SY6Ke6mXzZHhURLVU57R,2010-08-24,17,69,Katy Perry,38014131,87,pop
+pop,Por Vida,6f5gAJpM85TE6aQ81h46T5,2015-02-04,9,70,Kali Uchis,9271410,87,
+pop,Destino,7ntYRtIyF3vFEDORFx91VS,2015-12-04,13,50,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Dos Orillas (Deluxe),4sXFXZEB5fHqigXA5kXuoh,2014-12-02,38,29,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Dos Orillas,20BH3qrGQ71MhSzQlNCnA2,2013-01-01,11,43,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Diez (Siepmre Imperfctos),6jD3G5BhqXKc1FKADFwgeQ,2012-01-01,15,31,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Antonio Orozco 30 Canciones De Oro,7rU8rE90WZh4TlMi9OOx1I,2012-01-01,30,26,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Diez (Spotify),4myMrzEZCUdtMui1L5XES4,2011-01-01,12,16,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Diez,2WPsS9UReZyJQNOeJmka5A,2011-01-01,11,51,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,Renovatio 2011,5qe341vXwMqhKUljw13rjm,2010-01-01,14,40,Antonio Orozco,1478257,65,"flamenco, flamenco pop"
+pop,SEX AND LOVE,3lIHHrdS4kzUgqvMXgPEKP,2014-03-14,19,61,Enrique Iglesias,11847802,82,"latin pop, latin"
+pop,Euphoria,5JNhQFH8HMKQWP4SITzdoc,2010,18,72,Enrique Iglesias,11847802,82,"latin pop, latin"
+pop,Miley Cyrus & Her Dead Petz,6cfcdjtSR9ARnpnpwtEGaS,2015-08-30,23,45,Miley Cyrus,26385097,85,
+pop,Bangerz (Deluxe Version),3RDqXDc1bAETps54MSSOW0,2013-10-04,16,75,Miley Cyrus,26385097,85,
+pop,Can't Be Tamed,69Pf9ExxwjhVFyosKsKWQu,2010-01-01,12,55,Miley Cyrus,26385097,85,
+pop,Live At Wembley Arena,1mc8M9eR9ZIBxqWA2CA4Wo,2014-01-01,25,42,ABBA,14673597,83,
+pop,The Beginning (Deluxe),0BkpKcHw606at6Y2cp8kdE,2010-01-01,15,62,Black Eyed Peas,9366035,86,
+pop,The Beginning,3IpexNXiKbezuY526S4Jvy,2010-01-01,12,70,Black Eyed Peas,9366035,86,
+pop,25,6TVfiWmo8KtflUAmkK9gGF,2015-11-20,11,77,Adele,65867126,86,soft pop
+pop,21,5duyQokC4FMcWPYTV9Gpf9,2011-01-24,11,79,Adele,65867126,86,soft pop
+pop,Dilwale - Celebration Party Mixes,65Q2gJFL3TfMe5eWu7TV7q,2015-11-17,7,19,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Dilwale (Original Motion Picture Soundtrack),09AmTEo0Po8vC2WDcpviAT,2015-11-17,7,64,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Bajrangi Bhaijaan,4nZOPP0atfJbBlkedLYi7t,2015-07-07,11,64,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Holiday - A Soldier Is Never Off Duty (Original Motion Picture Soundtrack),38gRmNQUAXLOcEDTZgLBG4,2014-06-06,8,46,"Pritam, Kaushik Dutta",57192999,91,"bollywood, hindi pop, desi"
+pop,Muskurane - Romantic,1IUcac0ikoFRdqzp0QMNy8,2014-05-12,7,6,"Jeet Gannguli, Pritam",2170800,72,"bangla pop, hindi pop, bollywood"
+pop,Shaadi Ke Side Effects,4EgHhsRJCtWEdn5QzMu89E,2014-02-19,12,26,"Pritam, Mikey McCleary",57192999,91,"bollywood, hindi pop, desi"
+pop,Phata Poster Nikhla Hero (Original Motion Picture Soundtrack),2ADyLRU2KWshFA02symTDr,2013-09-20,10,58,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Yeh Jawaani Hai Deewani,2Lxoc72vRTGdQfMvj7Ovi1,2013-03-30,9,74,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Murder 3 (Original Motion Picture Soundtrack),59mJQyT1wOf5irSqfJNI43,2013-02-01,7,64,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Barfi! (Original Motion Picture Soundtrack),2KZs4INik6X4KeZEsEWEm4,2012-06-24,8,62,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Cocktail (Original Motion Picture Soundtrack),1y5h6GBXEgFjBDHThikj1w,2012-06-15,11,63,"Pritam, Irshad Kamil, Amitabh Bhattacharya",57192999,91,"bollywood, hindi pop, desi"
+pop,Ferrari Ki Sawaari,1czxatTCsHnioFmzVhYHIR,2012-05-15,7,33,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,Jannat 2 (Original Motion Picture Soundtrack),6CtqkIRtoYPHgFc1ft1DPi,2012-03-30,9,68,Pritam,57192999,91,"bollywood, hindi pop, desi"
+pop,1000 Forms Of Fear (Deluxe Version),6FdNvoO5sF4EKwCX9je1MH,2015-05-04,20,65,Sia,30297581,86,
+pop,1000 Forms Of Fear,3xFSl9lIRaYXIYkIn3OIl9,2014-07-04,12,73,Sia,30297581,86,
+pop,We Are Born,2sefE1XYR7ox1JTKCPerSI,2010-06-18,13,43,Sia,30297581,86,
+pop,Long Way Down (Expanded Edition),3t0Quq8X7W90hRP5OQ5S4b,2013-06-24,17,57,Tom Odell,4261664,80,
+pop,Long Way Down (Deluxe),0Gf1yE895FKK4YWVRuAeg8,2013-06-24,15,77,Tom Odell,4261664,80,
+pop,Long Way Down - Commentary Album,0v3kOqHczgXqcYKio67iUa,2013-04-01,10,10,Tom Odell,4261664,80,
+pop,BADLANDS (Deluxe),5OZJflQcQCdZLQjtUudCin,2015-08-28,16,70,Halsey,22287988,84,
+pop,BADLANDS,5U5rt98q8Jqx4lP3RdqYfO,2015-08-28,11,61,Halsey,22287988,84,
+pop,Bang,2xtRHrXduvq6S7rrzmS0dK,2015-10-13,15,56,Anitta,13244086,82,"brazilian pop, funk pop, brazilian funk, funk carioca, pagode baiano"
+pop,Ritmo Perfeito,4QTjlWk0JCR6w5S1ZVitkJ,2014-06-03,12,55,Anitta,13244086,82,"brazilian pop, funk pop, brazilian funk, funk carioca, pagode baiano"
+pop,Meu Lugar,1irawiP1fDHeb7hUNf9wxN,2014-06-03,31,52,Anitta,13244086,82,"brazilian pop, funk pop, brazilian funk, funk carioca, pagode baiano"
+pop,Anitta,512wE9gJZsB4iSVgVWOAKp,2013-02-06,16,35,Anitta,13244086,82,"brazilian pop, funk pop, brazilian funk, funk carioca, pagode baiano"
+pop,In a World Like This (Deluxe World Tour Edition),7GvnIbjZfr09O1aV5ihPHm,2014-04-15,18,35,Backstreet Boys,6618308,81,
+pop,In a World Like This,6La3thI4Xm0xV4xgneiZd0,2014-03-14,12,42,Backstreet Boys,6618308,81,
+pop,In a World Like This (Remixes),037t7MAOKh2DHbf7ltfWUy,2013-10-29,6,40,Backstreet Boys,6618308,81,
+pop,NKOTBSB,5Zwuaan4RIS108lyMEYYmw,2011-05-24,13,39,"NKOTBSB, New Kids On The Block, Backstreet Boys",33795,0,
+pop,On A Spaceship,5zH79s5J4D633IxoFWadp8,2015-03-13,20,41,Burna Boy,13593390,84,"afrobeats, afrobeat, afropop, afroswing, dancehall, afropiano"
+pop,L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition),7pqUKMWH6P7AJPIjUiphTS,2013-08-12,19,44,Burna Boy,13593390,84,"afrobeats, afrobeat, afropop, afroswing, dancehall, afropiano"
+pop,Pure Heroine,0rmhjUgoVa17LZuS8xWQ3v,2013-09-27,10,80,Lorde,10472286,84,
+pop,Más de lo que piensas,2JZ5nPVLzKrohDJHQNfnDK,2014-06-24,10,30,Camela,474807,61,"flamenco, flamenco pop"
+pop,Camela Platino. Las 30 Canciones,3pURnVEtxDJBbRBhxFTvGH,2011-12-20,30,32,Camela,474807,61,"flamenco, flamenco pop"
+pop,Camela 24 Exitos De Oro,2DR2sKC9tnu9k18GJAGOQD,2011-08-24,24,35,Camela,474807,61,"flamenco, flamenco pop"
+pop,Karaoke Camela Sueños Inalcanzables Playback,6JoA4V6Zmi6DXUAFwjAffB,2011-07-04,12,3,Camela,474807,61,"flamenco, flamenco pop"
+pop,Karaoke Camela Solo Por Ti Playback,0kMivJhkTnZceZwQzQ6Q1S,2011-07-01,11,1,Camela,474807,61,"flamenco, flamenco pop"
+pop,Karaoke Camela Playback . Sus 12 Primeras Canciones,0gY8YKBBGVQ8KthgK43vnv,2011-07-01,12,1,Camela,474807,61,"flamenco, flamenco pop"
+pop,Karaoke Camela Corazon Indomable Playback,6k2jb9r1kqu1b9abzj76xv,2011-07-01,10,1,Camela,474807,61,"flamenco, flamenco pop"
+pop,La Magia Del Amor,3RCrpetgO97xmeHeVVoKjj,2011-05-30,11,28,Camela,474807,61,"flamenco, flamenco pop"
+pop,La Música De Tus Tacones,1KI1xUnx5PqU0r32ZNGaOM,2014-10-01,11,44,El Arrebato,893107,60,"flamenco, flamenco pop"
+pop,Campamento Labandón,4fuuBsyeoTCR1l9AJIr1L5,2012-01-01,12,36,El Arrebato,893107,60,"flamenco, flamenco pop"
+pop,Lo Que El viento Me Dejó,1NDG8xLdhcQgu3DjFuK3Zh,2010-09-07,13,19,El Arrebato,893107,60,"flamenco, flamenco pop"
+pop,Kany García en Vivo,3gPRxs0Z5bggl0i75Wiurb,2014-08-19,18,44,Kany García,3735417,75,latin pop
+pop,Kany García,0xMspEBjMb20urG4Rx73vO,2012-07-30,12,55,Kany García,3735417,75,latin pop
+pop,Going Back (2010),51YI8SD0GBp3c7cavCD6Zr,2010-09-10,26,40,Phil Collins,7199685,80,soft rock
+pop,Confidencias Reales (En Vivo Desde El Teatro Real),1Psmz14dcKR0QEyoUeGxXP,2014-12-09,19,46,Alejandro Fernández,8581384,80,"mariachi, ranchera, latin pop, bolero"
+pop,Confidencias,3g2uS0IsIdaKqRiBSFrbBk,2013-01-01,11,61,Alejandro Fernández,8581384,80,"mariachi, ranchera, latin pop, bolero"
